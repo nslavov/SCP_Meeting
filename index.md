@@ -29,8 +29,7 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 ------------
 
-### Video recordings from past meetings
-Recorded [presentations](http://bit.ly/Slavov-Videos) from the single-cell proteomics conference
+&nbsp;
 
 
 ### About the single-cell proteomics conference
