@@ -17,8 +17,8 @@ permalink: /
 	</div>
 </div>
 
-------------
 
+&nbsp;
 
 
 New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in ultra low input tissue samples and even single cells provides essential information for the proteome identity of distinct cell types and their signaling activities.
@@ -29,7 +29,7 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 ------------
 
-## Recording from past meetings
+## Video recordings from past meetings
 Recorded [presentations](http://bit.ly/Slavov-Videos) from the single-cell proteomics conference
 
 
