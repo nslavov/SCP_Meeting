@@ -29,11 +29,11 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 ------------
 
-## Video recordings from past meetings
+### Video recordings from past meetings
 Recorded [presentations](http://bit.ly/Slavov-Videos) from the single-cell proteomics conference
 
 
-## About the single-cell proteomics conference
+### About the single-cell proteomics conference
 
 This is an annual meeting organized at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA
 
