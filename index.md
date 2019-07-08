@@ -6,9 +6,9 @@ description: "Single-cell proteomics conference"
 permalink: /
 ---
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:300,400|Josefin+Slab');
+
 <script language="javascript" type="text/javascript" src="https://web.northeastern.edu/slavovlab/bin/SCP.js"></script>
-<link rel="stylesheet" type="text/css" href="https://web.northeastern.edu/slavovlab/bin/SCP.css">
+<link rel="stylesheet" type="text/css" href="https://slavovlab.net/bin/SCP.css">
 
 
  <div class="SCP_wrapper" >
