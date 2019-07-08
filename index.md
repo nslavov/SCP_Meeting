@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <link rel="stylesheet" type="text/css" href="https://web.northeastern.edu/slavovlab/bin/nslavov_index.css">
-<script language="javascript" type="text/javascript" src="https://web.northeastern.edu/slavovlab/2018_SCP/scp.js"></script>
+<script language="javascript" type="text/javascript" src="https://web.northeastern.edu/slavovlab/bin/SCP.js"></script>
 <link rel="stylesheet" type="text/css" href="https://web.northeastern.edu/slavovlab/bin/SCP.css">
 
 
