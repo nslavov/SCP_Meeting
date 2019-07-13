@@ -13,8 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+theme: jekyll-theme-minimal
+
 title: Single-cell proteomics
-description: SCoPE2 Documentation | Slavov Laboratory
+description: Single-cell proteomics conference
 baseurl: ~ # the subpath of your site, e.g. /blog
 url: https://scope2.slavovlab.net # the base hostname & protocol for your site, e.g. http://example.com
 
