@@ -15,9 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-minimal
 
-title: Single-cell proteomics
+# Single-cell proteomics
+title: SCP meeting
 description: Single-cell proteomics conference
 
+
+aux_links:
+  "The single-cell proteomics conference":
+    - "http://slavovlab.net"
+
+    
 
 search_enabled: true
 
