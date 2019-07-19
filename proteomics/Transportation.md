@@ -3,7 +3,7 @@ layout: default
 title: Transportation
 nav_order: 2
 description: "Transportation to Northeastern University and the single-cell proteomics conference"
-permalink: docs/Transportation
+permalink: proteomics/Transportation
 ---
 
 # Transportation

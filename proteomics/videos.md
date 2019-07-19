@@ -3,7 +3,7 @@ layout: default
 title: Videos
 nav_order: 3
 description: "Recorded Presentations from the Single-cell proteomics conference"
-permalink: docs/videos
+permalink: proteomics/videos
 ---
 
 # Recorded Presentations
