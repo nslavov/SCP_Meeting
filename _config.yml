@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-minimal
+url: http://single-cell.net
 
 # Single-cell proteomics
 title: SCP meeting
@@ -32,7 +33,7 @@ search_enabled: true
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: UA-4005755-4
-url: single-cell.net
+
 
 plugins:
   - jekyll-seo-tag
