@@ -31,7 +31,8 @@ search_enabled: true
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-4005755-3
+ga_tracking: UA-4005755-4
+url: single-cell.net
 
 plugins:
   - jekyll-seo-tag
