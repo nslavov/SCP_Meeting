@@ -9,6 +9,7 @@
   background-color: $sidebar-color;
 
   @include mq(md) {
+    @include fs-7;
     position: absolute;
     top: 0;
     right: 0;
