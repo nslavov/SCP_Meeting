@@ -30,7 +30,7 @@ The single cell proteomics meeting will bring together many of the pioneers in t
 We look forward to providing a stimulating platform of scientific exchanges and to welcoming you in Boston.
 
 
-<a class="twitter-timeline"  href="https://twitter.com/slavovLab" data-widget-id="499599916843274240">Tweets by @SlavovLab</a>
+<a class="twitter-timeline"  href="https://twitter.com/SCP_meeting" data-widget-id="499599916843274240">Tweets by @SCP_meeting</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
 
 
