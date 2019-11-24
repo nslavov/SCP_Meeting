@@ -10,4 +10,4 @@ permalink: Conferences/single_cell
 
 
 ## May
-Gordon Research Conference: Single-Cell Genomics(https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22
+[Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22
