@@ -10,7 +10,7 @@ permalink: Conferences/single_cell
 
 
 ## May
-* [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4—8
+* [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4 - 8
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22
 
 ## June
