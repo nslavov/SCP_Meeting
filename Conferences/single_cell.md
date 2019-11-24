@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Single-cell meetings
-nav_order: 0.5
+title: Conferences
+nav_order: 10
 description: "Scientific meetings on single-cell biology, geomics and proteomics"
 permalink: Conferences/single_cell
 ---
