@@ -18,12 +18,14 @@ url: http://single-cell.net
 
 # Single-cell proteomics
 title: SCP meeting
-description: Single-cell proteomics conference
+description: Single-cell proteomics conferenc in Boston
 
 
 aux_links:
-  "The single-cell proteomics conference":
+  "Single-cell proteomics":
     - "http://scp.single-cell.net"
+  "Meetings":
+    - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"   
 
     
 
