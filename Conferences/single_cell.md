@@ -20,6 +20,3 @@ permalink: Conferences/single_cell
 
 ## November
 * [Emerging technologies in Single Cell research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): Nov 19 - 20
-
-
-https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/
