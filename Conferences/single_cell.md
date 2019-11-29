@@ -2,7 +2,7 @@
 layout: default
 title: Conferences
 nav_order: 10
-description: "Scientific meetings on single-cell biology, geomics and proteomics"
+description: "Scientific meetings on single-cell biology, genomics and proteomics"
 permalink: Conferences/single_cell
 ---
 
@@ -21,6 +21,9 @@ permalink: Conferences/single_cell
 
 ## June
 * [Gordon Research Conference: Single-Cell Cancer Biology](https://www.grc.org/single-cell-cancer-biology-conference/2020/): June 7 - 12
+
+## September
+* Norwich Single-Cell Symposium: Sept. 16 - 17
 
 ## November
 * [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): Nov 19 - 20
