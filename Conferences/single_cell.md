@@ -24,7 +24,7 @@ permalink: Conferences/single_cell
 
 ## September
 * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5
-* Norwich Single-Cell Symposium: Sep 16 - 17
+* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2020): Sep 16 - 17
 * Single Cell Genomics, (Utrecht)
 
 
