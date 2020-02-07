@@ -10,11 +10,11 @@ permalink: Conferences/Hotels
 
 
 ## The Midtown Hotel
-Reservations can be made by calling 617-262-1000 or 800-343-1177 and mentioning the block name NEU Single Cell Proteomics or by logging onto this [website](www.midtownhotel.com) and using the block code. The room rate is $199 and is valid for the following dates: June 7-9, 2020. The cut-off date for this room rate is May, 24, 2020.
+Reservations can be made by calling 617-262-1000 or 800-343-1177 and mentioning the block name NEU Single Cell Proteomics or by logging onto this [website](https://www.midtownhotel.com) and using the block code. The room rate is $199 and is valid for the following dates: June 7-9, 2020. The cut-off date for this room rate is May, 24, 2020.
 
 Block Code: NEUSCP
 
-The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. Click here to view the location on Google Maps. It is an 8 minute walk down Huntington Avenue to the Northeastern University campus. Guests can also take the E train on the Green line from Symphony to  Northeastern University.
+The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. Click here to view the location on Google Maps. It is an 8 minute walk down Huntington Avenue to the Northeastern University campus. Guests can also take the E train on the Green line from Symphony to Northeastern University.
 
  
 
