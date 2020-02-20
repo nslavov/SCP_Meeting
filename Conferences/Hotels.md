@@ -16,10 +16,13 @@ Block Code: NEUSCP
 
 The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. It is an 8 minute walk down Huntington Avenue to the Northeastern University campus. Guests can also take the E train on the Green line from Symphony to Northeastern University.
 
+&nbsp;
+
 
 ## Hotel Buckminster in Kenmore 
  Reservations can be made by calling (866) 238-4218 and mentioning the block name NEU Single Cell Proteomics. The room rate is $169 per night. 
 
+&nbsp;
  
 
 ## The Inn at Brookline:
@@ -31,6 +34,8 @@ Booking [Link](https://theinnatbrookline.reztrip.com/ext/promoRate?property=1580
 
 The Inn at Brookline is located at 1200 Beacon Street, Brookline, MA 02446. Click here to view the location on Google Maps. If taking public transit to Northeastern, guests can take the C train on the Green line from Saint Paul Street to Arlington station, then transfer to the E train, and take the train 4 stops to Northeastern University.
 
+
+&nbsp;
  
 
 ## La Quinta Inn & Suites by Wyndham Boston Somerville:
@@ -39,6 +44,10 @@ Reservations can be made by calling 1-800-753-3757 and mentioning the itinerary 
 June 7-9, 2020. The cut-off date for this room rate is May 21, 2020.
 
 La Quinta is located at 23 Cummings Street, Somerville, MA 02145. Click here to view the location on Google Maps. If taking public transit to Northeastern, guests can walk 10 minutes to Assembly station on the Orange Line and take the train 11 stops to Ruggles Station.
+
+
+&nbsp;
+
 
 
 ## Suite style dorm rooms in East Village:
