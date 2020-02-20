@@ -35,3 +35,12 @@ Reservations can be made by calling 1-800-753-3757 and mentioning the itinerary 
 June 7-9, 2020. The cut-off date for this room rate is May 21, 2020.
 
 La Quinta is located at 23 Cummings Street, Somerville, MA 02145. Click here to view the location on Google Maps. If taking public transit to Northeastern, guests can walk 10 minutes to Assembly station on the Orange Line and take the train 11 stops to Ruggles Station.
+
+
+## Suite style dorm rooms in East Village:
+If you would like to stay on campus, you may consider a privite dorm rooms in [East Village](https://www.northeastern.edu/housing/residences/east-village/). It is the cheapest option at $130 per person/ per night. These rooms do not include a microwave or fridge. The pricing of the dorm rooms would be lower if you share a room or bathroom with another guest. Contact [East Village](https://www.northeastern.edu/housing/residences/east-village/) for resevrvations and indicate that you will attend the single-cell proteomics conference.  
+
+
+
+
+
