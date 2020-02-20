@@ -14,7 +14,11 @@ Reservations can be made by calling 617-262-1000 or 800-343-1177 and mentioning 
 
 Block Code: NEUSCP
 
-The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. Click here to view the location on Google Maps. It is an 8 minute walk down Huntington Avenue to the Northeastern University campus. Guests can also take the E train on the Green line from Symphony to Northeastern University.
+The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. It is an 8 minute walk down Huntington Avenue to the Northeastern University campus. Guests can also take the E train on the Green line from Symphony to Northeastern University.
+
+
+## Hotel Buckminster in Kenmore 
+ Reservations can be made by calling (866) 238-4218 and mentioning the block name NEU Single Cell Proteomics. The room rate is $169 per night. 
 
  
 
