@@ -26,7 +26,7 @@ Below are links to recorded videos of presentations from past single-cell proteo
 &nbsp;
 
 
-<h2 style="letter-spacing: 2px; font-size: 28px; text-align: center; id="single-cell-proteomics-videos">
+<h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
 <a href="https://www.youtube.com/c/NikolaiSlavovResearch">Single-cell proteomics YouTube Channel</a>
 </h2>
 
