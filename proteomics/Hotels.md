@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotels
-nav_order: 11
+nav_order: 21
 description: "Hotels for the single-cell proteomics conference in Boston"
 permalink: Conferences/Hotels
 ---
@@ -19,11 +19,11 @@ The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. It is a
 &nbsp;
 
 
-## Hotel Buckminster in Kenmore 
- Reservations can be made by calling (866) 238-4218 and mentioning the block name NEU Single Cell Proteomics. The room rate is $169 per night. 
+## Hotel Buckminster in Kenmore
+ Reservations can be made by calling (866) 238-4218 and mentioning the block name NEU Single Cell Proteomics. The room rate is $169 per night.
 
 &nbsp;
- 
+
 
 ## The Inn at Brookline:
 Reservations can be made by calling the reservations team at 855-882-0368 and mentioning the booking code or by using the booking link below. The room rate is $179 per night and is valid for the following dates: June 7 -9, 2020.
@@ -36,7 +36,7 @@ The Inn at Brookline is located at 1200 Beacon Street, Brookline, MA 02446. Clic
 
 
 &nbsp;
- 
+
 
 ## La Quinta Inn & Suites by Wyndham Boston Somerville:
 Reservations can be made by calling 1-800-753-3757 and mentioning the itinerary number 5136B148789384 or block name Northeastern University COE. The room rate is $194.65 per night and is valid for the following dates:
@@ -52,8 +52,3 @@ La Quinta is located at 23 Cummings Street, Somerville, MA 02145. Click here to 
 
 ## Suite style dorm rooms in East Village:
 If you would like to stay on campus, you may consider a privite dorm rooms in [East Village](https://www.northeastern.edu/housing/residences/east-village/). It is the cheapest option at $130 per person/ per night. These rooms do not include a microwave or fridge. The pricing of the dorm rooms would be lower if you share a room or bathroom with another guest. Contact [East Village](https://www.northeastern.edu/housing/residences/east-village/) for resevrvations and indicate that you will attend the single-cell proteomics conference.  
-
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transportation
-nav_order: 2
+nav_order: 20
 description: "Transportation to Northeastern University and the single-cell proteomics conference"
 permalink: proteomics/Transportation
 ---
