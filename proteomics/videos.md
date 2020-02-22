@@ -2,12 +2,12 @@
 layout: default
 title: Videos
 nav_order: 3
-description: "Recorded Presentations from the Single-cell proteomics conference"
+description: "Recorded Video Presentations from the Single-cell proteomics conference"
 permalink: proteomics/videos
 ---
 
-# Recorded Presentations
-
+# Single-cell proteomics presentations
+Below are links to recorded videos of presentations from past single-cell proteomics conferences.
 &nbsp;
 
 
@@ -19,3 +19,6 @@ permalink: proteomics/videos
 [SCP2019 Single-Cell Proteomics Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
 
 [SCP2019 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+
+
+## [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch)
