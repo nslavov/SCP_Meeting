@@ -9,6 +9,8 @@ permalink: Conferences/Hotels
 # Reserved Hotels for SCP2020
 
 
+&nbsp;
+
 * [The Midtown Hotel](#the-midtown-hotel): $199 / night 
 * [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore): $169 / night 
 * [The Inn at Brookline](#the-inn-at-brookline): $179  / night 
