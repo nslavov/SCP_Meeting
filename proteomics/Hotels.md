@@ -8,6 +8,8 @@ permalink: Conferences/Hotels
 
 # Reserved Hotels for SCP2020
 
+* [The Midtown Hotel](#the-midtown-hotel)
+
 
 ## The Midtown Hotel
 Reservations can be made by calling 617-262-1000 or 800-343-1177 and mentioning the block name NEU Single Cell Proteomics or by logging onto this [website](https://www.midtownhotel.com) and using the block code. The room rate is $199 and is valid for the following dates: June 7-9, 2020. The cut-off date for this room rate is May, 24, 2020.
