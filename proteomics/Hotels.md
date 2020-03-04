@@ -9,6 +9,8 @@ permalink: Conferences/Hotels
 # Reserved Hotels for SCP2020
 
 * [The Midtown Hotel](#the-midtown-hotel)
+* [Hotel Buckminster in Kenmore](#Hotel-Buckminster-in-Kenmore)
+* [The Inn at Brookline](#the-inn-at-brookline)
 
 
 ## The Midtown Hotel
@@ -31,7 +33,7 @@ Hotel Buckminster is located at 645 Beacon St, Boston, MA 02215. Click [here](ht
 &nbsp;
 
 
-## The Inn at Brookline:
+## The Inn at Brookline
 Reservations can be made by calling the reservations team at 855-882-0368 and mentioning the booking code or by using the booking link below. The room rate is $179 per night and is valid for the following dates: June 7 -9, 2020.
 
 Booking Code: NEU
