@@ -13,9 +13,9 @@ permalink: Conferences/Hotels
 
 [The Midtown Hotel](#the-midtown-hotel) | $199 / night 
 [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore) | $169 / night 
-[The Inn at Brookline](#the-inn-at-brookline) &nbsp; $179  / night 
-[La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn) | &nbsp; $194.65 / night
-[Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village) | &nbsp; $130 / night
+[The Inn at Brookline](#the-inn-at-brookline) | $179  / night 
+[La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn) | $194.65 / night
+[Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village) | $130 / night
 
 &nbsp;
 
