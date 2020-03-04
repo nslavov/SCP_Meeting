@@ -12,8 +12,8 @@ permalink: Conferences/Hotels
 * [The Midtown Hotel](#the-midtown-hotel)
 * [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore)
 * [The Inn at Brookline](#the-inn-at-brookline)
-* [La Quinta Inn & Suites by Wyndham Boston Somerville](la-quinta-inn)
-* [Suite style dorm rooms in East Village](suite-style-dorm-rooms-in-east-village)
+* [La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn)
+* [Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village)
 
 &nbsp;
 
