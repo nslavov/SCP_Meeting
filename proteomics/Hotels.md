@@ -20,7 +20,11 @@ The Midtown Hotel is located at 220 Huntington Avenue, Boston, MA 02115. It is a
 
 
 ## Hotel Buckminster in Kenmore
- Reservations can be made by calling (866) 238-4218 and mentioning the block name NEU Single Cell Proteomics. The room rate is $169 per night.
+Reservations can be made by calling the front desk at 617-236-7050 and mentioning the group “Single Cell Proteomics Conference (SCP)” or the group code 100125. The room rate is $169 and is valid for the following dates: June 7-11, 2020. The cut-off date for the room rate is May 7, 2020.
+
+Booking Code: 100104
+
+Hotel Buckminster is located at 645 Beacon St, Boston, MA 02215. Click [here](https://www.google.com/maps/place/Boston+Hotel+Buckminster/@42.3484825,-71.0978666,15z/data=!4m9!3m8!1s0x0:0xd164117421988b5e!5m3!1s2020-01-17!4m1!1i2!8m2!3d42.3484825!4d-71.0978666) to view the location on Google Maps. It is a 25-minute walk to Northeastern. If taking public transit to Northeastern, guests can take the B, C, or D Green line train from Kenmore to Arlington station, then transfer to the E train, and take the train 4 stops to Northeastern University.
 
 &nbsp;
 
