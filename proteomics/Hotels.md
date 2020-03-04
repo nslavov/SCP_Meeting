@@ -9,11 +9,11 @@ permalink: Conferences/Hotels
 # Reserved Hotels for SCP2020
 
 
-* [The Midtown Hotel](#the-midtown-hotel)
-* [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore)
-* [The Inn at Brookline](#the-inn-at-brookline)
-* [La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn)
-* [Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village)
+* [The Midtown Hotel](#the-midtown-hotel): $199 / night 
+* [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore): $169 / night 
+* [The Inn at Brookline](#the-inn-at-brookline): $179  / night 
+* [La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn): $194.65 / night
+* [Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village): $130 / night
 
 &nbsp;
 
