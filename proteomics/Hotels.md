@@ -11,9 +11,8 @@ permalink: Conferences/Hotels
 
 &nbsp;
 
-* [The Midtown Hotel](#the-midtown-hotel): | $199 / night 
-* [Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore): |  $169 / night 
-
+[The Midtown Hotel](#the-midtown-hotel): | $199 / night 
+[Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore): | $169 / night 
 
 * [The Inn at Brookline](#the-inn-at-brookline): &nbsp; $179  / night 
 * [La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn): &nbsp; $194.65 / night
