@@ -21,11 +21,11 @@ permalink: proteomics/networks
 
 # News 
  * [Northeastern Engineering Hosts First Single Cell Proteomics Conference](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
- 
+
 
 # Single-cell proteomics: Photos
 ## 2018
-
+ ![]({{site.baseurl}}/proteomics/photos/scp2018.jpg){:width="50%" .center-image}
 
 
 
