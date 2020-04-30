@@ -26,7 +26,7 @@ permalink: proteomics/networks
 
 # Single-cell proteomics: Photos
 ## 2018
- [![]({{site.baseurl}}/proteomics/photos/scp2018.jpg){:width="80%" .center-image}](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
+ [![]({{site.baseurl}}/proteomics/photos/SCP2018_Group_Picture.JPG){:width="80%" .center-image}](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
 
 
 
