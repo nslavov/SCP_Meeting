@@ -48,11 +48,15 @@ permalink: /proteomics-center/
 
 ### [Technologies for analyzing protein in single cells](http://slavovlab.net/research.htm#SCoPE-MS)
 Human physiology and pathology arise from the coordinated interactions of diverse single cells. However, analyzing single cells has been limited by the low sensitivity and throughput of analytical methods. DNA sequencing has recently made such analysis feasible for nucleic acids, but single-cell protein analysis remains limited. Mass-spectrometry is the most powerful method for protein analysis, but its application to single cells faces three major challenges: Efficiently delivering proteins/peptides to MS detectors, identifying their sequences, and scaling the analysis to many thousands of single cells. These challenges have motivated corresponding solutions, including SCoPE-design multiplexing and clean, automated, and miniaturized sample preparation. Synergistically applied, these solutions enable quantifying thousands of proteins across many single cells and establish a solid foundation for further advances. Building upon this foundation, the SCoPE concept will enable analyzing subcellular organelles and post-translational modifications while increases in multiplexing capabilities will increase the throughput and decrease cost.
+
 [Read more >>](https://arxiv.org/abs/2004.02069)
+
+&nbsp;
 
 
 ### [Mapping the Transcriptome and Proteome of Human Testis in 3D](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
 This network will map the human testis in 3D using paired single cell analysis by mass-spectrometry, clampFISH, and RNA-sequencing.
+
 [Read more >>](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
 
 
