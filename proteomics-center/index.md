@@ -34,9 +34,9 @@ permalink: /proteomics-center/
 	   </div>
      </div>
     </td>
-    <td  align="right" >
+    <td  align="right" width="140"  >
 			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" alt="Nikolai Slavov" >
-			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov"  border=0></a>
+			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov" ></a>
 	</td>
 </tr>
 <tr> <td height="60" colspan="2"></td></tr>
