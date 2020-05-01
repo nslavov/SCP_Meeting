@@ -17,13 +17,13 @@ theme: jekyll-theme-minimal
 url: http://single-cell.net
 
 # Single-cell proteomics
-title: SCP Center
-description: Single-cell proteomics center and conferences in Boston
+title: SCP Meeting
+description: Single-cell proteomics conferences in Boston
 
 
 aux_links:
-  "Single-cell proteomics":
-    - "http://scp.single-cell.net"
+  "Single-cell proteomics center":
+    - "http://center.single-cell.net"
   "Meetings":
     - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"   
 
