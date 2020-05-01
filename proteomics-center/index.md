@@ -16,7 +16,7 @@ permalink: /proteomics-center/
 <tr>
 	<td  align="left" width="20"> </td>
     <td>
-      <div  id="NikolaiSlavov">
+      <div  id="NikolaiSlavov" style="font-size:18px; font-weight: 400; letter-spacing: 1.5px;" >
 			<span itemprop="name">Nikolai Slavov</span>
 	  </div>
 		<br>
@@ -35,10 +35,8 @@ permalink: /proteomics-center/
      </div>
     </td>
     <td  align="right" >
-		<span itemprop="Photo">
 			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" alt="Nikolai Slavov" >
-			<img name="image1" src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov"  border=0></a>
-	   </span>
+			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov"  border=0></a>
 	</td>
 </tr>
 <tr> <td height="60" colspan="2"></td></tr>
