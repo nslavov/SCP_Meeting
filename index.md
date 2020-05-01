@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Meetings
 nav_order: 1
 description: "Single-cell proteomics conference"
 permalink: /
