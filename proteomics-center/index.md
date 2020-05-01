@@ -8,7 +8,7 @@ permalink: /proteomics-center/
 
 
 # Single-cell proteomics center
-------------
+
 
 ## Director
 
@@ -47,6 +47,10 @@ permalink: /proteomics-center/
 
 ## Projects
 
+### [Mapping the Transcriptome and Proteome of Human Testis in 3D](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
+This network will map the human testis in 3D using paired single cell analysis by mass-spectrometry, clampFISH, and RNA-sequencing.
+
+
 
 
 
@@ -55,6 +59,6 @@ permalink: /proteomics-center/
 &nbsp;
 
 
-### About the single-cell proteomics center
+## About the single-cell proteomics center
 
 The single-cell proteomics center located at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the center should be addressed to [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/).
