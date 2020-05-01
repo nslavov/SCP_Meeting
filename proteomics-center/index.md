@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Center
-nav_order: 100
+nav_order: 200
 description: "Single-cell proteomics center"
 permalink: /proteomics-center/
 ---
@@ -15,6 +15,10 @@ permalink: /proteomics-center/
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr>
 	<td  align="left" width="20"> </td>
+    <td>
+      <div  id="NikolaiSlavov">
+			<span itemprop="name">Nikolai Slavov</span>
+	  </div>
 		<br>
 		<div style="line-height: 160%; padding: 1 1 1 20;" >
 		  <div style="font-family:   'Open Sans',   sans-serif;   font-size:13px; font-weight: 400; letter-spacing: 1.2px;"> <!-- Courier, New,     'Josefin Slab', serif;       -->
@@ -29,9 +33,7 @@ permalink: /proteomics-center/
 		<a href="http://slavovlab.net/teaching/index.html" target="_blank">Teaching</a>
 	   </div>
      </div>
-	</div>
-		<br>
-    </TD>
+    </td>
     <td  align="right" >
 		<span itemprop="Photo">
 			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" alt="Nikolai Slavov" >
