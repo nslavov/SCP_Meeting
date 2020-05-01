@@ -14,10 +14,10 @@ permalink: /proteomics-center/
 
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr border="0">
-	<td  align="left" width="20"> </td>
+	<td  align="left" width="10" border="0"> </td>
     <td>
-      <div  id="NikolaiSlavov" style="font-size:20px; font-weight: 400; letter-spacing: 1.5px;" >
-			<span itemprop="name">Nikolai Slavov</span>
+      <div  id="NikolaiSlavov" style="font-size:20px; font-weight: 400; letter-spacing: 1.5px;" border="0" >
+			<span itemprop="name">Professor Nikolai Slavov</span>
 	  </div>
 		<br>
 		<div style="line-height: 160%; padding: 1 1 1 20;" >
@@ -34,7 +34,7 @@ permalink: /proteomics-center/
 	   </div>
      </div>
     </td>
-    <td  align="right" width="140"  >
+    <td  align="right" width="140"  border="0" >
 			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" alt="Nikolai Slavov" >
 			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov" ></a>
 	</td>
