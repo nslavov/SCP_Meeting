@@ -28,8 +28,6 @@ permalink: /proteomics-center/
 		<div style="letter-spacing: 1px;">
 		<a href="https://coe.northeastern.edu/people/slavov-nikolai/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
 		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
-		<a href="http://slavovlab.net/index_files/nslavov_cv.pdf" alt="Professor Slavov" target="_blank">CV</a> &nbsp; | &nbsp;
-		<a href="http://slavovlab.net/teaching/index.html" target="_blank">Teaching</a>
 	   </div>
      </div>
     </td>
