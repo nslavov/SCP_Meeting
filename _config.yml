@@ -22,8 +22,10 @@ description: Single-cell proteomics conferences in Boston
 
 
 aux_links:
-  "Single-cell proteomics center":
+  "SCP center":
     - "http://center.single-cell.net"
+  "Single-cell proteomics":
+    - "https://web.northeastern.edu/slavovlab/blog/single-cell-proteomics/"    
   "Meetings":
     - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"   
 
