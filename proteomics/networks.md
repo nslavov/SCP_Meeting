@@ -17,6 +17,7 @@ permalink: proteomics/networks
 
 # Single-cell proteomics: News
 * [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
+* [Single-cell protein profiling](https://science.sciencemag.org/content/367/6477/522.11)
 * [Technology feature at Nature Methods: Single-cell proteomics ](https://www.nature.com/articles/s41592-019-0540-6)
 * [News in Proteomics Research](http://proteomicsnews.blogspot.com/2019/12/over-1000-single-cell-proteomes-2700.html)
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/)
