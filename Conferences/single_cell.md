@@ -12,8 +12,7 @@ permalink: Conferences/single_cell
 ## March
 * [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): March 11 - 13
 
-## April
-* [The Conceptual Power of Single Cell Biology](http://www.cell-symposia.com/conceptual-single-cells-2020/): April 19 - 21
+
 
 ## May
 * [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4 - 8
@@ -36,3 +35,6 @@ permalink: Conferences/single_cell
 
 ## November
 * [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): Nov 19 - 20
+
+## December
+* [The Conceptual Power of Single Cell Biology](http://www.cell-symposia.com/conceptual-single-cells-2020/): April 8 - 10
