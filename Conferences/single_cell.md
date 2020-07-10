@@ -16,10 +16,10 @@ permalink: Conferences/single_cell
 
 ## May
 * [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4 - 8
-* [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22
+* [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22 **Postponed to 2022**
 
 ## June
-* [Gordon Research Conference: Single-Cell Cancer Biology](https://www.grc.org/single-cell-cancer-biology-conference/2020/): June 7 - 12
+* [Gordon Research Conference: Single-Cell Cancer Biology](https://www.grc.org/single-cell-cancer-biology-conference/2020/): June 7 - 12 **Postponed to 2022**
 
 ## August
 * [Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
