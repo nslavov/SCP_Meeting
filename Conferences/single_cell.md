@@ -22,16 +22,16 @@ permalink: Conferences/single_cell
 
 ## September
 <!--- * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5 --->
-* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2020): Sep 15 - 16
+* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2020): September 15 - 16
 * Single Cell Genomics, (Utrecht)
 
 ## October
-* [Frontiers in Single Cell Genomics](http://www.csh-asia.org/2020meetings/cell.html): Oct 26 - 30
+* [Frontiers in Single Cell Genomics](http://www.csh-asia.org/2020meetings/cell.html): October 26 - 30
 
 
 ## November
 * [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): November 09 - 12
-* [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): Nov 19 - 20
+* [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): November 19 - 20
 
 ## December
 * [The Conceptual Power of Single Cell Biology](http://www.cell-symposia.com/conceptual-single-cells-2020/): April 8 - 10
