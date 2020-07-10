@@ -9,13 +9,9 @@ permalink: Conferences/single_cell
 # 2020 Single-cell biology conferences
 
 
-## March
-* [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): March 11 - 13
-
-
 
 ## May
-* [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4 - 8
+<!-- * [Keystone Symposia: Single Cell Biology](http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1727): May 4 - 8 -->
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22 **Postponed to 2022**
 
 ## June
@@ -34,6 +30,7 @@ permalink: Conferences/single_cell
 
 
 ## November
+* [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): November 09 - 12
 * [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): Nov 19 - 20
 
 ## December
