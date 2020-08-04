@@ -27,7 +27,7 @@ permalink: Conferences/single_cell
 
 ## October
 * [HUPO World Congress (single-cell session)](https://www.hupo.org/World-Congress-and-Meetings): October 19 - 22
-* [Frontiers in Single Cell Genomics](http://www.csh-asia.org/2020meetings/cell.html): October 26 - 30
+* [Frontiers in Single Cell Genomics](https://www.csh-asia.org/?content/404): October 26 - 30
 
 
 ## November
