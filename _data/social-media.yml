@@ -1,10 +1,3 @@
-
-facebook:
-  id: 'Single.Cell.Proteomics'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
-
 twitter:
   id: 'SCP_meeting'
   href: 'https://www.twitter.com/'
@@ -17,8 +10,20 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
+facebook:
+  id: 'Single.Cell.Proteomics'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
 linkedin:
   id: '8618946'
   href: 'https://www.linkedin.com/groups/'
   title: 'Linkedin'
   fa-icon: 'fa-linkedin-square'
+
+youtube:
+  id: 'NikolaiSlavovResearch'
+  href: 'https://www.youtube.com/c/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-square'
