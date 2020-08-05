@@ -1,0 +1,29 @@
+twitter:
+  id: 'SCP_meeting'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'Single-cell-proteomics'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+facebook:
+  id: 'Single.Cell.Proteomics'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+linkedin:
+  id: '8618946'
+  href: 'https://www.linkedin.com/groups/'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin-square'
+
+youtube:
+  id: 'NikolaiSlavovResearch'
+  href: 'https://www.youtube.com/c/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-square'

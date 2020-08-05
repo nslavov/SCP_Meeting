@@ -5,6 +5,7 @@ nav_order: 3.2
 description: "Single-cell proteomics: Social networks and pictures"
 permalink: proteomics/networks
 ---
+{% include social-media-links.html %}
 
 # Single-cell proteomics: Social networks
 
