@@ -6,6 +6,7 @@ description: "Single-cell proteomics conference"
 permalink: /
 ---
 
+{% include social-media-links.html %}
 
 <script language="javascript" type="text/javascript" src="http://slavovlab.net/bin/SCP.js"></script>
 <link rel="stylesheet" type="text/css" href="http://northeastern.edu/slavovlab/bin/SCP.css">
@@ -20,8 +21,7 @@ permalink: /
 </div>
 
 
-&nbsp;
-{% include social-media-links.html %}
+
 &nbsp;
 
 New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in ultra low input tissue samples and even single cells provides essential information for the proteome identity of distinct cell types and their signaling activities.

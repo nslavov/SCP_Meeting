@@ -6,13 +6,11 @@ description: "Recorded Video Presentations from the Single-cell proteomics confe
 permalink: proteomics/videos
 ---
 
-
+{% include social-media-links.html %}
 
 # Single-cell proteomics research presentations
 Below are links to recorded video presentations from the [single-cell proteomics conferences](http://single-cell.net/). Videos are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
 
-
-{% include social-media-links.html %}
 
 &nbsp;
 
