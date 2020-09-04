@@ -7,9 +7,11 @@ permalink: Conferences/single_cell
 ---
 {% include social-media-links.html %}
 
+# **Single-cell biology conferences**
+
+<br>
+
 # 2020 Single-cell biology conferences
-
-
 
 
 ## August
@@ -29,6 +31,8 @@ permalink: Conferences/single_cell
 * [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): November 09 - 12
 * [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): November 19 - 20
 
+<br>
+<br>
 
 
 
@@ -43,7 +47,8 @@ permalink: Conferences/single_cell
 * [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2021): September 16
 
 
-
+<br>
+<br>
 
 
 
