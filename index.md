@@ -26,7 +26,8 @@ permalink: /
 
 New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in ultra low input tissue samples and even single cells provides essential information for the proteome identity of distinct cell types and their signaling activities.
 
-The single cell proteomics meeting will bring together many of the pioneers in the field for sharing ideas, results, and informal discussions of future directions. We aim to create a forum for sharing knowledge and defining together the agenda of this new community. The meeting will include poster sessions and talks from selected abstracts as well as talks from invited leaders in the field. We look forward to hosting this pioneering meeting at this exciting time for single cell proteomics!
+The single-cell proteomics meeting is an interdisciplinary gathering of leading scientists in single-cell biology, ultra-sensitive proteomics, single-cell omics and computational biology. The emphasis is on sharing ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as poster sessions and talks from selected abstracts.
+
 
 We look forward to providing a stimulating platform of scientific exchanges and to welcoming you in Boston.
 
