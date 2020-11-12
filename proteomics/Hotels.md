@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Hotels
-nav_order: 21
+nav_order: 2
 description: "Hotels for the single-cell proteomics conference in Boston"
 permalink: Conferences/Hotels
+parent: Logistics
 ---
 
 # Reserved Hotels for SCP2020
@@ -11,9 +12,9 @@ permalink: Conferences/Hotels
 
 &nbsp;
 
-[The Midtown Hotel](#the-midtown-hotel) | $199 / night 
-[Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore) | $169 / night 
-[The Inn at Brookline](#the-inn-at-brookline) | $179  / night 
+[The Midtown Hotel](#the-midtown-hotel) | $199 / night
+[Hotel Buckminster in Kenmore](#hotel-buckminster-in-kenmore) | $169 / night
+[The Inn at Brookline](#the-inn-at-brookline) | $179  / night
 [La Quinta Inn & Suites by Wyndham Boston Somerville](#la-quinta-inn) | $194.65 / night
 [Suite style dorm rooms in East Village](#suite-style-dorm-rooms-in-east-village) | $130 / night
 
