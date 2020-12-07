@@ -13,23 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-minimal
-url: http://single-cell.net
+# theme: jekyll-theme-minimal
+
 
 # Single-cell proteomics
 title: SCP Meeting
+long_title: Single-cell proteomics conferences
 description: Single-cell proteomics conferences in Boston
-
+url: https://single-cell.net
+permalink: pretty
 
 aux_links:
   "SCP center":
-    - "http://center.single-cell.net"
+    - "https://center.single-cell.net"
   "Single-cell proteomics":
-    - "https://web.northeastern.edu/slavovlab/blog/single-cell-proteomics/"    
+    - "https://web.northeastern.edu/slavovlab/blog/single-cell-proteomics/"
   "Meetings":
-    - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"   
+    - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"
 
-    
+
 
 search_enabled: true
 
