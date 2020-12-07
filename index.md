@@ -8,8 +8,8 @@ permalink: /
 
 {% include social-media-links.html %}
 
-<script language="javascript" type="text/javascript" src="http://slavovlab.net/bin/SCP.js"></script>
-<link rel="stylesheet" type="text/css" href="http://northeastern.edu/slavovlab/bin/SCP.css">
+<script language="javascript" type="text/javascript" src="https://slavovlab.net/bin/SCP.js"></script>
+<link rel="stylesheet" type="text/css" href="https://northeastern.edu/slavovlab/bin/SCP.css">
 
 
  <div class="SCP_wrapper" >
