@@ -15,7 +15,7 @@ permalink: proteomics/networks
 ## Social networks & resources
 
 * [Twitter](https://twitter.com/SCP_meeting)
-* [YouTube](https://YouTube.single-cell.net/)
+* [YouTube](https://www.youtube.com/c/NikolaiSlavovResearch)
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
 * [Single-Cell Proteomics Center](https://center.single-cell.net/)
