@@ -1,22 +1,24 @@
 ---
 layout: default
-title: Networks
+title: Resources
 nav_order: 3.2
 description: "Single-cell proteomics: Social networks, highlights and pictures"
 permalink: proteomics/networks
 ---
 {% include social-media-links.html %}
 
-# Single-cell proteomics
+# Single-cell proteomics resources
 
 
 &nbsp;
 
-## Social networks
+## Social networks & resources
 
+* [Twitter](https://twitter.com/SCP_meeting)
+* [YouTube](https://YouTube.single-cell.net/)
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
-* [Twitter](https://twitter.com/SCP_meeting)
+* [Single-Cell Proteomics Center](https://center.single-cell.net/)
 
 
 
@@ -28,7 +30,6 @@ permalink: proteomics/networks
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/)
  * [Northeastern Engineering Hosts First Single Cell Proteomics Conference](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
 
-&nbsp;
 
 ## Photos
 ### 2018
