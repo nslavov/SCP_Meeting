@@ -2,12 +2,17 @@
 layout: default
 title: Networks
 nav_order: 3.2
-description: "Single-cell proteomics: Social networks and pictures"
+description: "Single-cell proteomics: Social networks, highlights and pictures"
 permalink: proteomics/networks
 ---
 {% include social-media-links.html %}
 
-# Single-cell proteomics: Social networks
+# Single-cell proteomics
+
+
+&nbsp;
+
+## Social networks
 
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
@@ -16,7 +21,7 @@ permalink: proteomics/networks
 
 &nbsp;
 
-# Single-cell proteomics: News
+# News & Highlights
 * [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
 * [Single-cell protein profiling](https://science.sciencemag.org/content/367/6477/522.11)
 * [Technology feature at Nature Methods: Single-cell proteomics ](https://www.nature.com/articles/s41592-019-0540-6)
@@ -26,8 +31,8 @@ permalink: proteomics/networks
 
 &nbsp;
 
-# Single-cell proteomics: Photos
-## 2018
+## Photos
+### 2018
  [![]({{site.baseurl}}/proteomics/photos/SCP2018_Group_Picture.JPG){:width="80%" .center-image}](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
 
 
