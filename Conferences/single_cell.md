@@ -11,35 +11,11 @@ permalink: Conferences/single_cell
 
 <br>
 
-# 2020 Single-cell biology conferences
-
-
-## August
-* [Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
-
-## September
-<!--- * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5 --->
-* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/virtual-single-cell-symposium-future-single-cell-analysis#Programme-2): September 16
-
-
-## October
-* [HUPO World Congress (single-cell session)](https://www.hupo.org/World-Congress-and-Meetings): October 19 - 22
-* [Frontiers in Single Cell Genomics](https://www.csh-asia.org/?content/404): October 26 - 30
-
-
-## November
-* [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): November 09 - 12
-* [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): November 19 - 20
-
-<br>
-<br>
-
-
 
 # 2021 Single-cell biology conferences
 
 ## June
-* [Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): June 14 - 16
+* [Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): Aug 16 - 18
 
 
 ## September
@@ -62,3 +38,34 @@ permalink: Conferences/single_cell
 
 ## December
 * [The Conceptual Power of Single Cell Biology](http://www.cell-symposia.com/conceptual-single-cells-2020/):
+
+
+<br>
+<br>
+<br>
+<br>
+
+# Past conferences
+---
+# 2020 Single-cell biology conferences
+
+
+## August
+* [Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
+
+## September
+<!--- * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5 --->
+* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/virtual-single-cell-symposium-future-single-cell-analysis#Programme-2): September 16
+
+
+## October
+* [HUPO World Congress (single-cell session)](https://www.hupo.org/World-Congress-and-Meetings): October 19 - 22
+* [Frontiers in Single Cell Genomics](https://www.csh-asia.org/?content/404): October 26 - 30
+
+
+## November
+* [Single Cell Biology](https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/): November 09 - 12
+* [Emerging Technologies in Single Cell Research](https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research): November 19 - 20
+
+<br>
+<br>
