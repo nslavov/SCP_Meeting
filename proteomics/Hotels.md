@@ -24,7 +24,7 @@ parent: Logistics
 
 
 
-Reservations for The Residence Inn  can be made via the room block reservation website using the link above. *Special reservations rate available until Friday, July 16, 2021 only; reservations made after this date will be subject to prevailing rates and availability. Hotel room rates are subject to state and local taxes in effect at time of check-in.
+Reservations for The Residence Inn  can be made via the room block reservation website using the link above. Special reservations rate available until Friday, July 16, 2021 only; reservations made after this date will be subject to prevailing rates and availability. Hotel room rates are subject to state and local taxes in effect at time of check-in.
 
 &nbsp;
 
