@@ -3,7 +3,7 @@ layout: default
 title: Hotels 2020
 nav_order: 2
 description: "Hotels for the single-cell proteomics conference in Boston"
-permalink: Conferences/Hotels
+permalink: Conferences/Hotels_2020
 parent: Logistics
 ---
 
