@@ -7,8 +7,14 @@ permalink: Conferences/Hotels
 parent: Logistics
 ---
 
-# Reserved Hotels for SCP2021
+# Reserved Hotel for SCP2021
+&nbsp;
 
+
+&nbsp;
+
+
+&nbsp;
 
 ## Residence Inn by Marriott Boston Back Bay/Fenway
 
