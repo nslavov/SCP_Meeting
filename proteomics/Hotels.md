@@ -8,13 +8,10 @@ parent: Logistics
 ---
 
 # Reserved Hotel for SCP2021
-&nbsp;
 
 
 &nbsp;
 
-
-&nbsp;
 
 ## Residence Inn by Marriott Boston Back Bay/Fenway
 
