@@ -15,7 +15,7 @@ parent: Logistics
 <h1 style="text-align: left;"><strong>Location on campus</strong></h1>
 <strong>Location:</strong> All talks will be on the campus of <a href="https://www.northeastern.edu/campusmap/printable/campusmap15.pdf">Northeastern University</a>.
 
-<h1 style="text-align: left;"><strong>Parking at the Main Campus</h1>
+<h1 style="text-align: left;"><strong>Parking at the Main Campus</strong></h1>
 Northeastern provides parking at the Renaissance Parking Garage for general campus visitors. Please see the <a href="https://www.northeastern.edu/campusmap/printable/campusmap15.pdf">campus map</a> or the Google map below for driving directions to the Renaissance Parking Garage.
 
 
