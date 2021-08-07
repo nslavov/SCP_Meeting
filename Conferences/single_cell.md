@@ -2,7 +2,7 @@
 layout: default
 title: Conferences
 nav_order: 100
-description: "Scientific meetings on single-cell biology, genomics and proteomics"
+description: "Scientific meetings on single-cell biology, proteomics and genomics"
 permalink: Conferences/single_cell
 ---
 {% include social-media-links.html %}
@@ -14,7 +14,7 @@ permalink: Conferences/single_cell
 
 # 2021 Single-cell biology conferences
 
-## June
+## August
 * [Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): Aug 16 - 18
 
 
