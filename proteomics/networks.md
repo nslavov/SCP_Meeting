@@ -23,6 +23,7 @@ permalink: proteomics/networks
 
 
 ## News & Highlights
+* [Single cell proteomics highlight by Nature Methods](https://www.nature.com/articles/s41592-021-01243-y)
 * [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
 * [Single-cell protein profiling](https://science.sciencemag.org/content/367/6477/522.11)
 * [Technology feature at Nature Methods: Single-cell proteomics ](https://www.nature.com/articles/s41592-019-0540-6)
