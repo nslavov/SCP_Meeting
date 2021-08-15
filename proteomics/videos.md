@@ -2,7 +2,7 @@
 layout: default
 title: Videos
 nav_order: 3
-description: "Recorded Video Presentations from the Single-cell proteomics conference"
+description: "Recorded Research Presentations from the Single-Cell Proteomics Conference"
 permalink: proteomics/videos
 ---
 
@@ -64,6 +64,6 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 ### About the single-cell proteomics conference
 
-This is an annual meeting organized at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](http://slavovlab.net).
+This is an annual meeting organized at [Northeastern University](https://center.single-cell.net/) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](https://slavovlab.net).
 
 {% include social-media-links.html %}
