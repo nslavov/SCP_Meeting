@@ -17,18 +17,23 @@ Below are links to recorded video presentations from the [single-cell proteomics
 &nbsp;
 
 
-## SCP2018
-[2018 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
+## SCP2018
+### [2018 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
+
+&nbsp;
 
 ## SCP2019
-[2019 Single-Cell Proteomics Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
+### [2019 Single-Cell Proteomics Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
 
-[2019 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+### [2019 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
 
+&nbsp;
 
 ## SCP2020
-[2020 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJrLCO47iAe6vh9w0pxLwxV)
+### [2020 Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJrLCO47iAe6vh9w0pxLwxV)
+
+&nbsp;
 
 ## SCP2021
 [2021 Single-Cell Proteomics Conference](http://scp2021videos.single-cell.net)
