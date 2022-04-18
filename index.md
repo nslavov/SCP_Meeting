@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Single-cell proteomics conference"
+description: "Single-cell proteomics conference, annual meeting for single-cell biology, sensitive proteomics, single-cell omics and computational biology"
 permalink: /
 ---
 
 {% include social-media-links.html %}
 
 <script language="javascript" type="text/javascript" src="https://slavovlab.net/bin/SCP.js"></script>
-<link rel="stylesheet" type="text/css" href="https://northeastern.edu/slavovlab/bin/SCP.css">
+<link rel="stylesheet" type="text/css" href="https://slavovlab.net/bin/SCP.css">
 
 
  <div class="SCP_wrapper" >
@@ -24,12 +24,12 @@ permalink: /
 
 &nbsp;
 
-New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in ultra low input tissue samples and even single cells provides essential information for the proteome identity of distinct cell types and their signaling activities.
+New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in low amount tissue samples and single cells provides essential information for the proteome identity of distinct cell states and their signaling activities.
 
-The annual single-cell proteomics meeting is an interdisciplinary gathering of leading scientists in single-cell biology, ultra-sensitive proteomics, single-cell omics and computational biology. The emphasis is on interactive sharing of ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as talks and posters from selected abstracts.
+The annual single-cell proteomics meeting is an interdisciplinary gathering of leading scientists in single-cell biology, sensitive proteomics, single-cell omics and computational biology. The emphasis is on interactive sharing of ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as talks and posters from selected abstracts.
 
 
-We look forward to providing a stimulating platform of scientific exchanges and to welcoming you in Boston.
+We look forward to providing a stimulating platform of scientific exchanges and to welcoming you to Boston.
 
 <div style="text-align: center;">
 <a  class="twitter-timeline"  href="https://twitter.com/SCP_meeting" data-widget-id="499599916843274240">Tweets by @SCP_meeting</a>
@@ -43,6 +43,6 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 ### About the single-cell proteomics conference
 
-This is an annual meeting organized at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](http://slavovlab.net).
+This is an annual meeting organized at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](https://slavovlab.net).
 
 {% include social-media-links.html %}
