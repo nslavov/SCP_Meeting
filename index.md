@@ -9,7 +9,7 @@ permalink: /
 {% include social-media-links.html %}
 
 <script language="javascript" type="text/javascript" src="https://slavovlab.net/bin/SCP.js"></script>
-<link rel="stylesheet" type="text/css" href="https://slavovlab.net/bin/SCP.css">
+<link rel="stylesheet" type="text/css" href="https://slavovlab.net/bin/SCP_2.css">
 
 
  <div class="SCP_wrapper" >
@@ -20,8 +20,6 @@ permalink: /
 	</div>
 </div>
 
-
-&nbsp;
 
 &nbsp;
 
