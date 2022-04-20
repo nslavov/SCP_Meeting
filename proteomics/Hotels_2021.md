@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotels SCP2021
-nav_order: 2
+nav_order: 3
 description: "Hotels for the single-cell proteomics conference in Boston"
 permalink: SCP_Meeting/Hotels_2021
 parent: Logistics
