@@ -10,14 +10,14 @@
   background-color: $sidebar-color;
 
   @include mq(md) {
-    @include fs-7;
+    @include fs-6;
     position: absolute;
     top: 0;
     right: 0;
     z-index: 101;
     height: 60px;
     padding-top: $sp-4;
-    border-bottom: $border $border-color;
+    // border-bottom: $border $border-color;
   }
 }
 
