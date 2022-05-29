@@ -23,7 +23,7 @@ This page aims to collect and organize community guidelines and recommendations 
 **White paper:** *Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
 
 
-![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="50%" .center-image}
+![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="90%" .center-image}
 
 ---------
 
