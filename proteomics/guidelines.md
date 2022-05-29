@@ -17,8 +17,6 @@ This page provides a platform for collecting and organizing community guidelines
 
 &nbsp;
 
-## White paper: Initial recommendations
-*Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
 
 &nbsp;
 
@@ -34,8 +32,17 @@ Please recommend best practices, benchmarks, or reporting standards for single-c
 Please discuss best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this **[Google Group](https://groups.google.com/g/single_cell_proteomics)**.
 {: .fs-5 }
 
+---------
 
 &nbsp;
+
+
+## Initial recommendations
+**White paper:** *Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
+
+
+
+
 
 
 &nbsp;
