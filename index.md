@@ -29,7 +29,7 @@ New ideas and emerging technologies allow quantifying thousands of proteins in v
 
 The annual single-cell proteomics meeting is an interdisciplinary gathering of leading scientists in single-cell biology, sensitive proteomics, single-cell omics and computational biology. The emphasis is on interactive sharing of ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as talks and posters from selected abstracts.
 
-*The single-cell proteomics conference is reoccurring gatherings since 2018 that is focuses on providing opportunities for interaction and community development.*
+*The single-cell proteomics conference is an annual meeting since 2018 that is focuses on providing opportunities for interactions and community development.*
 
 
 We look forward to providing a stimulating platform of scientific exchanges and to welcoming you to Boston.
