@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Single-Cell Conferences
+title: Conferences
 nav_order: 100
-description: "Scientific meetings on single-cell biology, proteomics and genomics"
+description: "Scientific conferences focused on single-cell biology, proteomics and genomics"
 permalink: Conferences/single_cell
 parent: Resources
 ---
@@ -19,7 +19,7 @@ parent: Resources
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2022/): May 1 - 6
 
 ## June
-* [5<sup>th</sup> Single Cell Proteomics Conference (SCP2022)](proteomics/scp2022): June 15 - 16
+* [5<sup>th</sup> Single-Cell Proteomics Conference (SCP2022)](proteomics/scp2022): June 15 - 16
 
 
 <br>
