@@ -13,7 +13,7 @@ has_children: false
 &nbsp;
 
 {: .fs-6 }
-This page provides a platform for collecting and organizing community guidelines and recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
+This page aims to collect and organize community guidelines and recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
 -------
 
 &nbsp;
