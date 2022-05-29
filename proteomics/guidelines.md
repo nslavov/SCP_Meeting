@@ -12,25 +12,27 @@ has_children: false
 
 &nbsp;
 
-{: .fs-6 }
+{: .fs-5 }
 This page provides a platform for collecting and organizing community guidelines and recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
 
 &nbsp;
 
-## White paper
-Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
+## White paper: Initial recommendations
+*Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
 
 &nbsp;
 
 ## Suggest guidelines
-Please recommend best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this [Google Form](https://forms.gle/STQAgqmkZUX82U3A6).
+Please recommend best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this **[Google Form](https://forms.gle/STQAgqmkZUX82U3A6)**.
+{: .fs-4 }
 
 
 &nbsp;
 
 
 ## Discuss guidelines and recommendations
-Please discuss best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this [Google Group](https://groups.google.com/g/single_cell_proteomics).
+Please discuss best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this **[Google Group](https://groups.google.com/g/single_cell_proteomics)**.
+{: .fs-4 }
 
 
 &nbsp;
