@@ -29,7 +29,7 @@ Please recommend best practices, benchmarks, or reporting standards for single-c
 
 
 ## Discuss guidelines and recommendations
-Please discuss best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this [Google Group].
+Please discuss best practices, benchmarks, or reporting standards for single-cell proteomics experiments using this [Google Group](https://groups.google.com/g/single_cell_proteomics).
 
 
 &nbsp;
