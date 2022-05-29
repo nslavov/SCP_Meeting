@@ -14,9 +14,17 @@ has_children: false
 
 {: .fs-6 }
 This page provides a platform for collecting and organizing community guidelines and recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
+-------
 
 &nbsp;
 
+## Initial recommendations
+**White paper:** *Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
+
+
+![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="50%" .center-image}
+
+---------
 
 &nbsp;
 
@@ -37,11 +45,7 @@ Please discuss best practices, benchmarks, or reporting standards for single-cel
 &nbsp;
 
 
-## Initial recommendations
-**White paper:** *Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
 
-
-![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="80%" .center-image}
 
 
 
