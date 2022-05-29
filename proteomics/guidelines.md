@@ -41,6 +41,10 @@ Please discuss best practices, benchmarks, or reporting standards for single-cel
 **White paper:** *Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments*
 
 
+![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="80%" .center-image}
+
+
+
 
 
 
