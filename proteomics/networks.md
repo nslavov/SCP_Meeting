@@ -13,14 +13,17 @@ has_children: true
 
 &nbsp;
 
-## Social networks & resources
+## Social networks
 
 * [Twitter](https://twitter.com/SCP_meeting)
 * [YouTube](https://www.youtube.com/c/NikolaiSlavovResearch)
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
-* [Single-Cell Proteomics Center](https://center.single-cell.net/)
 
+
+## Resources
+* [Single-Cell Proteomics Center](https://center.single-cell.net/)
+* [Single-Cell Methods & Data](https://scp.slavovlab.net/)
 
 
 ## News & Highlights

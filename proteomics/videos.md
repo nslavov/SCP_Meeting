@@ -2,8 +2,9 @@
 layout: default
 title: Videos
 nav_order: 3
-description: "Recorded Research Presentations from the Single-Cell Proteomics Conference"
+description: "Recorded Research Presentations from the annual Single-Cell Proteomics Conference"
 permalink: proteomics/videos
+parent: Resources
 ---
 
 {% include social-media-links.html %}
