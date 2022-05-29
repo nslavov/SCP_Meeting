@@ -4,6 +4,7 @@ title: Resources
 nav_order: 3.2
 description: "Single-cell proteomics: Social networks, highlights and pictures"
 permalink: proteomics/networks
+has_children: true
 ---
 {% include social-media-links.html %}
 

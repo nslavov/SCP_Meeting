@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Conferences
+title: Single-Cell Conferences
 nav_order: 100
 description: "Scientific meetings on single-cell biology, proteomics and genomics"
 permalink: Conferences/single_cell
+parent: Resources
 ---
 {% include social-media-links.html %}
 
