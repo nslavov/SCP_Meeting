@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logistics
+title: Community guidelines
 nav_order: 21
 description: "Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments"
 permalink: guidelines
@@ -16,4 +16,4 @@ This page provides a platform for collecting and organizing community guidelines
 
 &nbsp;
 
-&nbsp; 
+&nbsp;
