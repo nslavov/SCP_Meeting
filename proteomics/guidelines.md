@@ -17,7 +17,6 @@ This page aims to collect and organize community guidelines and recommendations 
 
 -------
 
-&nbsp;
 
 ## Initial recommendations
 **White paper:** *Performing, benchmarking, and reporting single-cell proteomics experiments*
