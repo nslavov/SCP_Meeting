@@ -2,8 +2,9 @@
 layout: default
 title: Conferences
 nav_order: 100
-description: "Scientific meetings on single-cell biology, proteomics and genomics"
+description: "Scientific conferences focused on single-cell biology, proteomics and genomics"
 permalink: Conferences/single_cell
+parent: Resources
 ---
 {% include social-media-links.html %}
 
@@ -11,27 +12,27 @@ permalink: Conferences/single_cell
 
 <br>
 
-
-# 2021 Single-cell biology conferences
-
-## August
-* [Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): Aug 16 - 18
-
-
-## September
-* Single Cell Genomics, (Utrecht)
-* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2021): September 16
-
-
-<br>
-<br>
-
-
-
-
 # 2022 Single-cell biology conferences
 
-* [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2020/): May 17 - 22 **Postponed to 2022**
+
+## May
+* [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2022/): May 1 - 6
+
+## June
+* [5<sup>th</sup> Single-Cell Proteomics Conference (SCP2022)](proteomics/scp2022): June 15 - 16
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+# Past conferences
+---
+
+
+# 2021 Single-cell biology conferences
 
 ## June
 * [Gordon Research Conference: Single-Cell Cancer Biology](https://www.grc.org/single-cell-cancer-biology-conference/2020/): June 7 - 12 **Postponed to 2022**
@@ -40,18 +41,29 @@ permalink: Conferences/single_cell
 * [The Conceptual Power of Single Cell Biology](http://www.cell-symposia.com/conceptual-single-cells-2020/):
 
 
-<br>
-<br>
-<br>
+
 <br>
 
-# Past conferences
----
+
+# 2021 Single-cell biology conferences
+
+## August
+* [4<sup>th</sup> Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): Aug 16 - 18
+
+
+## September
+* Single Cell Genomics, (Utrecht)
+* [Norwich Single-Cell Symposium](https://www.earlham.ac.uk/single-cell-symposium-2021): September 16
+
+
+<br>
+
+
 # 2020 Single-cell biology conferences
 
 
 ## August
-* [Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
+* [3<sup>rd</sup> Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
 
 ## September
 <!--- * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5 --->

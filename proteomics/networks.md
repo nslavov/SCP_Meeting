@@ -4,6 +4,7 @@ title: Resources
 nav_order: 3.2
 description: "Single-cell proteomics: Social networks, highlights and pictures"
 permalink: proteomics/networks
+has_children: true
 ---
 {% include social-media-links.html %}
 
@@ -12,14 +13,17 @@ permalink: proteomics/networks
 
 &nbsp;
 
-## Social networks & resources
+## Social networks
 
 * [Twitter](https://twitter.com/SCP_meeting)
 * [YouTube](https://www.youtube.com/c/NikolaiSlavovResearch)
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
-* [Single-Cell Proteomics Center](https://center.single-cell.net/)
 
+
+## Resources
+* [Single-Cell Proteomics Center](https://center.single-cell.net/)
+* [Single-Cell Methods & Data](https://scp.slavovlab.net/)
 
 
 ## News & Highlights
