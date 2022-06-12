@@ -15,15 +15,6 @@ nav_exclude: true
 
 
 
-
-<h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
-<a href="https://www.youtube.com/c/NikolaiSlavovResearch">Single-cell proteomics YouTube Channel</a>
- </h2>
-
-
-------------
-
-
 &nbsp;
 
 <div style="text-align: center;" >
@@ -34,10 +25,21 @@ nav_exclude: true
 &nbsp;
 
 
-&nbsp;
+------------
 
 
 &nbsp;
+
+
+<h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
+<a href="https://www.youtube.com/c/NikolaiSlavovResearch">Single-cell proteomics YouTube Channel</a>
+ </h2>
+
+
+&nbsp;
+
+&nbsp;
+
 
 
 &nbsp;
