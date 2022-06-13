@@ -17,10 +17,15 @@ nav_exclude: true
 
 &nbsp;
 
+<h2 style="letter-spacing: 2px; font-size: 48px; text-align: center;" id="single-cell-proteomics-videos">
+<a href="https://www.youtube.com/c/NikolaiSlavovResearch">The Live YouTube Cast will be here</a>
+ </h2>
+
+<!--
 <div style="text-align: center;" >
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+-->
 
 &nbsp;
 
