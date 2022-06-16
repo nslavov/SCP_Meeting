@@ -18,7 +18,7 @@ nav_exclude: true
 &nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 78px; text-align: center;" id="single-cell-proteomics-videos">
-<a href="https://youtu.be/j6MuV4ZOEM8">The Live YouTube Cast will be here</a>
+<a href="https://youtu.be/_RKqzrTqNCM">The Live YouTube Cast will be here</a>
  </h2>
 
 <!--
