@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 nav_order: 3.2
-description: "Single-cell proteomics: Social networks, highlights and pictures"
+description: "Single-cell proteomics: Resources, Social networks, highlights and pictures"
 permalink: proteomics/networks
 has_children: true
 ---
@@ -27,6 +27,7 @@ has_children: true
 
 
 ## News & Highlights
+* [Highlight by *C&EN*](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 * [Single cell proteomics highlight by Nature Methods](https://www.nature.com/articles/s41592-021-01243-y)
 * [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
 * [Single-cell protein profiling](https://science.sciencemag.org/content/367/6477/522.11)
@@ -37,8 +38,18 @@ has_children: true
 
 
 ## Photos
+
+### 2022
+
+ ![]({{site.baseurl}}/proteomics/photos/scp2022.jpeg){:width="80%" .center-image}
+
+
+&nbsp;
+
+
 ### 2018
  [![]({{site.baseurl}}/proteomics/photos/SCP2018_Group_Picture.JPG){:width="80%" .center-image}](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
+
 
 
 
