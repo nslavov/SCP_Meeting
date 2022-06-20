@@ -39,7 +39,7 @@ has_children: true
 
 ## Photos
 
-### 2022
+### 2022:  The 5th Single-Cell Proteomics Conference
 
  ![]({{site.baseurl}}/proteomics/photos/scp2022.jpeg){:width="80%" .center-image}
 
@@ -47,7 +47,7 @@ has_children: true
 &nbsp;
 
 
-### 2018
+### 2018: The 1st Single-Cell Proteomics Conference
  [![]({{site.baseurl}}/proteomics/photos/SCP2018_Group_Picture.JPG){:width="80%" .center-image}](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/)
 
 
