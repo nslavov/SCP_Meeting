@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Hotels 2022
-nav_order: 4
-description: "Hotels for the single-cell proteomics conference 2022 in Boston"
-permalink: SCP_Meeting/Hotels_2022
+title: Hotels 2023
+nav_order: 5
+description: "Hotels for the single-cell proteomics conference 2023 in Boston"
+permalink: SCP_Meeting/Hotels_2023
 parent: Logistics
 ---
 
-# Reserved Hotel for SCP2022
+# Reserved Hotel for SCP2023
 
 
 &nbsp;
