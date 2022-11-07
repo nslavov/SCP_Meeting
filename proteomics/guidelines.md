@@ -19,7 +19,7 @@ This page aims to collect and organize community guidelines and recommendations 
 
 
 ## Initial recommendations
-**White paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://arxiv.org/abs/2207.10815), [preprint](https://doi.org/10.48550/arXiv.2207.10815)
+**White paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://arxiv.org/abs/2207.10815), [preprint](https://doi.org/10.48550/arXiv.2207.10815), [Code](https://github.com/SlavovLab/SCP_recommendations)
 
 
 ![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="90%" .center-image}
