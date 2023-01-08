@@ -27,6 +27,9 @@ has_children: true
 
 
 ## News & Highlights
+* [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/), *Precision Medicine*
+* [Uncovering Proteomic Patterns One Cell at a Time](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/), *GEN*
+* [Highlight of plexDIA](https://www.nature.com/articles/s41592-022-01611-2), *Nature Methods*
 * [Highlight by *C&EN*](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 * [Single cell proteomics highlight by Nature Methods](https://www.nature.com/articles/s41592-021-01243-y)
 * [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
