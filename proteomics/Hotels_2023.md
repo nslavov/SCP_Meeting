@@ -15,17 +15,18 @@ parent: Logistics
 
 ## The Inn at Longwood Medical
 
-Reservations can be made by calling the Hotel’s reservations at 1 (800) 468-2378 or (617) 731-4700 asking for group block code NEUE0622 or by using the following [LINK](https://gc.synxis.com/rez.aspx?Hotel=58219&Chain=65&arrive=6/13/2022&depart=6/18/2022&adult=1&child=0&group=NEUE0622).
-* Room rate: $269. Cut-off date for this room rate is May, 20, 2022
-* Valid for the following dates: June 13-18, 2022 (Check in: June 16 / Check out: June 18)
-* Block Code: NEUE0622
+Reservations can be made by calling the Hotel’s reservations at 1 (800) 468-2378 or (617) 731-4700 asking for group block code NEUE0623 or by using the following [LINK](https://be.synxis.com/?adult=1&arrive=2023-05-31&chain=65&child=0&currency=USD&depart=2023-06-03&group=NEUE0623&hotel=58219&level=hotel&locale=en-US&rooms=1).
+* Room rate: $269. Cut-off date for this room rate is May, 5, 2023
+* Valid for the following dates: May 31 -- June 2, 2023 (Check in: May 31st / Check out: June 2nd)
+* Block Code: NEUE0623
 
 
 
 The Inn at Longwood Medical is located at 342 Longwood Ave Boston, MA 02115. It is an 18 minute walk to the Northeastern University campus.
 
 
-## [SCP2022 Home](https://single-cell.net/proteomics/scp2022)
+## [SCP2023 Home](https://single-cell.net/proteomics/scp2023)
+
 
 
 &nbsp;
