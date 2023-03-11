@@ -18,13 +18,18 @@ This page aims to collect and organize community guidelines and recommendations 
 -------
 
 
-## Initial recommendations
-**White paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3), *Nature Methods*, **20**, 375--386 (2023) doi: [10.1038/s41592-023-01785-3](https://doi.org/10.1038/s41592-023-01785-3)
+## Initial recommendations from a community white paper
+[*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3), *Nature Methods*, **20**, 375--386 (2023) doi: [10.1038/s41592-023-01785-3](https://doi.org/10.1038/s41592-023-01785-3)
 * [GitHub Code](https://github.com/SlavovLab/SCP_recommendations)
 * [Example *README* file](https://www.nature.com/articles/s41592-023-01785-3#Sec29)
 * [Example *Data websites*](https://scp.slavovlab.net/data)
 
 ![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="90%" .center-image}
+
+
+> We expect that broadly accepted community guidelines and standardized metrics will enhance rigor, data quality and alignment between laboratories.
+
+[The *Nature Methods* white paper](https://www.nature.com/articles/s41592-023-01785-3) proposed best practices, quality controls and data-reporting recommendations to assist in the broad adoption of reliable quantitative workflows for single-cell proteomics.
 
 ---------
 
