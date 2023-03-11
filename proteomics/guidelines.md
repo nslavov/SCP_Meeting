@@ -19,7 +19,7 @@ This page aims to collect and organize community guidelines and recommendations 
 
 
 ## Initial recommendations from a community white paper
-[*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3), *Nature Methods*, **20**, 375--386 (2023) doi: [10.1038/s41592-023-01785-3](https://doi.org/10.1038/s41592-023-01785-3)
+[*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3), *Nature Methods*, **20**, 375--386 (2023) doi: [10.1038/s41592-023-01785-3](https://doi.org/10.1038/s41592-023-01785-3), [Blog](https://blog.slavovlab.net/2023/03/04/guidelines-for-single-cell-proteomic-experiments/)
 * [GitHub Code](https://github.com/SlavovLab/SCP_recommendations)
 * [Example *README* file](https://www.nature.com/articles/s41592-023-01785-3#Sec29)
 * [Example *Data websites*](https://scp.slavovlab.net/data)
