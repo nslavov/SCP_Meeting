@@ -26,6 +26,7 @@ This page aims to collect and organize community guidelines and recommendations 
 
 ![Data evaluation and interpretation](photos/Data-evaluation-and-interpretation.png){:width="90%" .center-image}
 
+&nbsp;
 
 > We expect that broadly accepted community guidelines and standardized metrics will enhance rigor, data quality and alignment between laboratories.
 
