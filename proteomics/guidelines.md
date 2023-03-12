@@ -5,6 +5,7 @@ nav_order: 21
 description: "Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments"
 permalink: guidelines
 has_children: false
+image: photos/Data-evaluation-and-interpretation.png 
 ---
 
 
