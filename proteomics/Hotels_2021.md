@@ -5,6 +5,7 @@ nav_order: 3
 description: "Hotels for the single-cell proteomics conference in Boston"
 permalink: SCP_Meeting/Hotels_2021
 parent: Logistics
+nav_exclude: true
 ---
 
 # Reserved Hotel for SCP2021
