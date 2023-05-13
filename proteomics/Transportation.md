@@ -10,7 +10,26 @@ parent: Logistics
 # Transportation
 
 
+{:.no_toc}
 
+* Will be replaced with the ToC, excluding the section header
+{:toc}
+
+
+
+## Parallel Squared Technology Institute (parallelsq.org)
+
+<h1 style="text-align: left;"><strong>Address</strong></h1>
+490 Arsenal Way, Ste 110
+Watertown, MA 02472
+
+&nbsp;
+
+<!--[![]({{site.baseurl}}/sponsors/pti-full-dark-background.png){:width="60%" .center-image}](https://www.parallelsq.org)-->
+[![]({{site.baseurl}}/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
+
+
+## Northeastern University
 
 <h1 style="text-align: left;"><strong>Location on campus</strong></h1>
 <strong>Location:</strong> All talks will be on the campus of <a href="https://www.northeastern.edu/campusmap/printable/campusmap15.pdf">Northeastern University</a>.
