@@ -7,7 +7,7 @@ permalink: proteomics/Transportation
 parent: Logistics
 ---
 
-# Transportation
+# Locations and Transportation
 
 
 {:.no_toc}
@@ -17,7 +17,9 @@ parent: Logistics
 
 
 
-## Parallel Squared Technology Institute (parallelsq.org)
+## Parallel Squared Technology Institute
+
+The hands-on workshops are at Parallel Squared Technology Institute ([PTI](https://www.parallelsq.org/))
 
 <h3 style="text-align: left;"><strong>Address</strong></h3>
 490 Arsenal Way, Ste 110
