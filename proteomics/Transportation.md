@@ -19,7 +19,7 @@ parent: Logistics
 
 ## Parallel Squared Technology Institute (parallelsq.org)
 
-<h1 style="text-align: left;"><strong>Address</strong></h1>
+<h3 style="text-align: left;"><strong>Address</strong></h3>
 490 Arsenal Way, Ste 110
 Watertown, MA 02472
 
@@ -29,26 +29,30 @@ Watertown, MA 02472
 [![]({{site.baseurl}}/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
 
 
+<h3 style="text-align: left;"><strong>Parking at PTI</strong></h3>
+PTI offers free parking at its parking lot.  
+
+
 ## Northeastern University
 
-<h1 style="text-align: left;"><strong>Location on campus</strong></h1>
+<h3 style="text-align: left;"><strong>Location on campus</strong></h3>
 <strong>Location:</strong> All talks will be on the campus of <a href="https://www.northeastern.edu/campusmap/printable/campusmap15.pdf">Northeastern University</a>.
 
-<h1 style="text-align: left;"><strong>Parking at the Main Campus</strong></h1>
+<h3 style="text-align: left;"><strong>Parking at the Main Campus</strong></h3>
 Northeastern provides parking at the Renaissance Parking Garage for general campus visitors. Please see the <a href="https://www.northeastern.edu/campusmap/printable/campusmap15.pdf">campus map</a> or the Google map below for driving directions to the Renaissance Parking Garage.
 
 
-<h1 style="text-align: left;"><strong>Traveling to Northeastern University</strong></h1>
+<h3 style="text-align: left;"><strong>Traveling to Northeastern University</strong></h3>
 <p style="text-align: left;" data-ae_styles="background-color;rgba(0, 0, 0, 0);font-size;24px;font-weight;normal;color;rgb(78, 69, 65)">Northeastern’s vibrant campus is located in the Back&nbsp;Bay neighborhood of Boston in the heart of the city. Below is an interactive map of Boston and the Back Bay area, as well as directions to our campus.</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1272334916403!2d-71.09136038383826!3d42.339810644371546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a1999cf5ce1%3A0xc97b00e66522b98c!2sNortheastern+University!5e0!3m2!1sen!2sus!4v1563052631059!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <p style="text align: left;" data-ae_styles="background-color;rgba(0, 0, 0, 0);font-size;24px;font-weight;normal;color;rgb(78, 69, 65)">Northeastern is truly a&nbsp;campus within a city. For more information on our campus, please review our&nbsp;<strong><em><a href="https://www.northeastern.edu/iutam2018/wp-content/uploads/2017/07/Northeastern-University-Campus-Map-1.pdf">Northeastern Campus Map</a></em></strong>. One of the country’s greatest walking cities, having Boston in your backyard opens you up to a cultural hub. Take a short walk or hop on the easy-to-use public transportation system&nbsp;<a href="https://d3044s2alrsxog.cloudfront.net/sites/default/files/maps/Rapid_Transit_Map.pdf"><strong>(MBTA Map)</strong></a>&nbsp;to explore popular nearby destinations by metro train or bus.</p>
 
-<h1 style="text-align: left;"><strong>Directions from Select Hotels</strong></h1>
+<h3 style="text-align: left;"><strong>Directions from Select Hotels</strong></h3>
 <p style="text-align: left;"><strong>The Midtown Hotel</strong>&nbsp;is located 0.4 miles from campus. Approximately 10-minute walk and&nbsp;7-minute MBTA train ride to campus. Walk across the street to the underground Symphony Station and board the Green E line – Heath Street, take train 2 stops, exiting at Northeastern University stop.</p>
 <p style="text-align: left;"><strong>Hilton Boston Back Bay</strong>&nbsp;is located 0.7 miles from campus. Approximately 15-minute walk and 12-minute train ride to campus. Walk 0.2 miles to the indoor Prudential Station and board the Green E line – Heath, take train 3 stops, exiting at Northeastern University stop.</p>
 <p style="text-align: left;"><strong>The Inn at Longwood</strong>&nbsp;is located 0.9 miles from campus. Approximately 20-minute walk and 15-minute MBTA train ride to campus. Walk 0.4 miles to above ground Longwood Station and board the Green E line – Lechmere, take train 3 stops, exiting at Northeastern University stop.</p>
 
-<h1><strong>Directions from Logan Airport, Boston</strong></h1>
+<h3><strong>Directions from Logan Airport, Boston</strong></h3>
 <em><strong>Driving</strong></em>
 Exiting Logan Airport, merge onto Route I-90 West/Mass Pike/Ted Williams Tunnel. Proceed about 1.5 miles, and then take Exit 24 toward Route I-93. Merge onto Route I-93 South via the exit on the left. Take Exit 18, Massachusetts Avenue, toward Andrew Square. Bear right onto the Massachusetts Avenue connector. Proceed straight on the connector, which becomes Melnea Cass Boulevard. Continue for approximately two miles and turn left onto Columbus Avenue. The Renaissance Parking Garage is at 835 Columbus Avenue.
 
