@@ -16,6 +16,10 @@ parent: Logistics
 {:toc}
 
 
+&nbsp;
+
+&nbsp;
+
 
 ## Parallel Squared Technology Institute
 
@@ -28,11 +32,19 @@ Watertown, MA 02472
 &nbsp;
 
 <!--[![]({{site.baseurl}}/sponsors/pti-full-dark-background.png){:width="60%" .center-image}](https://www.parallelsq.org)-->
-[![]({{site.baseurl}}/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
+[![]({{site.baseurl}}/sponsors/pti-full-black-transparent.png){:width="30%"}](https://www.parallelsq.org)
 
+&nbsp;
 
 <h3 style="text-align: left;"><strong>Parking at PTI</strong></h3>
 PTI offers free parking at its parking lot.  
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 ## Northeastern University
