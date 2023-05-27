@@ -25,12 +25,14 @@ permalink: /
 
 &nbsp;
 
-New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in low amount tissue samples and single cells provides essential information for the proteome identity of distinct cell states and their signaling activities.
-
-The annual single-cell proteomics meeting is an interdisciplinary gathering of leading scientists in single-cell biology, sensitive proteomics, single-cell omics and computational biology. The emphasis is on interactive sharing of ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as talks and posters from selected abstracts.
-
 {: .fs-5 .fw-300}
 *The single-cell proteomics conference is an annual meeting since [2018](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/) that focuses on providing opportunities for interactions and community development.*
+
+&nbsp;
+
+New ideas and emerging technologies allow quantifying thousands of proteins in very small samples, down to single mammalian cells. This progress is poised to transform biomedical research, from fundamental biological research to biomedical engineering and clinical applications. The high-throughput quantification of proteins and their post-translational modifications (PTMs) in low amount tissue samples and single cells provides essential information for the proteome identity of distinct cell states and their signaling activities.
+
+The annual single-cell proteomics meeting is an *interdisciplinary* gathering of leading scientists in single-cell biology, sensitive proteomics, single-cell omics and computational biology. Its emphasis is on interactive sharing of ideas, results, and informal discussions of future directions. The meetings include talks from invited leaders in the field as well as talks and posters from selected abstracts.
 
 
 We look forward to providing a stimulating platform of scientific exchanges and to welcoming you to Boston.
