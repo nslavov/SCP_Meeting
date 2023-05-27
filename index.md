@@ -25,7 +25,7 @@ permalink: /
 
 &nbsp;
 
-{: .fs-5 .fw-300}
+{: .fs-6 .fw-300}
 *The single-cell proteomics conference is an annual meeting since [2018](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/) that focuses on providing opportunities for interactions and community development.*
 
 &nbsp;
@@ -36,6 +36,12 @@ The annual single-cell proteomics meeting is an *interdisciplinary* gathering of
 
 
 We look forward to providing a stimulating platform of scientific exchanges and to welcoming you to Boston.
+
+
+&nbsp;
+
+&nbsp;
+
 
 <div style="text-align: center;">
 <a  class="twitter-timeline"  href="https://twitter.com/SCP_meeting" data-widget-id="499599916843274240">Tweets by @SCP_meeting</a>
