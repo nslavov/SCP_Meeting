@@ -12,11 +12,13 @@ parent: Resources
 &nbsp;
 
 # Single-cell proteomics research presentations
-Below are links to recorded video presentations from the [single-cell proteomics conferences](http://single-cell.net/). Videos are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
+Below are links to recorded video presentations from the [single-cell proteomics conferences](https://single-cell.net/). Videos are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
 
 
 &nbsp;
 
+
+# **[All play lists](https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2)**
 
 
 ## SCP2018
