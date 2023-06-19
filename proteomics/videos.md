@@ -18,7 +18,7 @@ Below are links to recorded video presentations from the [single-cell proteomics
 &nbsp;
 
 
-# **[All play lists](https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2)**
+# [All play lists](https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2){: .fs-7 }
 
 
 ## SCP2018
