@@ -2,7 +2,7 @@
 layout: default
 title: Videos
 nav_order: 3
-description: "Recorded Research Presentations from the annual Single-Cell Proteomics Conference"
+description: "Single-Cell Proteomics videos. Recorded Research Presentations from the annual Single-Cell Proteomics Conference"
 permalink: proteomics/videos
 parent: Resources
 ---
@@ -58,7 +58,7 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
-<a href="https://www.youtube.com/c/NikolaiSlavovResearch">Single-cell proteomics YouTube Channel</a>
+<a href="https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2">Single-cell proteomics YouTube playlists</a>
  </h2>
 
 
