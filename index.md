@@ -55,6 +55,6 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 ### About the single-cell proteomics conference
 
-This is an annual meeting organized at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](https://slavovlab.net).
+This is an annual meeting organized at [Northeastern University](https://center.single-cell.net) in Boston, MA, USA. Questions about the conference should be addressed to the [Slavov Laboratory](https://slavovlab.net).
 
 {% include social-media-links.html %}
