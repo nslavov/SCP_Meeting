@@ -5,7 +5,7 @@ nav_order: 21
 description: "Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments"
 permalink: guidelines
 has_children: false
-image: photos/Data-evaluation-and-interpretation.png 
+image: photos/Data-evaluation-and-interpretation.png
 ---
 
 
@@ -34,6 +34,19 @@ This page aims to collect and organize community guidelines and recommendations 
 [The *Nature Methods* white paper](https://www.nature.com/articles/s41592-023-01785-3) proposed best practices, quality controls and data-reporting recommendations to assist in the broad adoption of reliable quantitative workflows for single-cell proteomics.
 
 ---------
+
+&nbsp;
+
+## Recorded discussions
+The best practices for single-cell mass spec proteomics have been frequently discussed at the *single-cell proteomics conference*, and some of these discussions are available for a [YouTube playlist](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW).
+
+&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nV9zbF9DT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+&nbsp;
+
 
 &nbsp;
 
