@@ -38,7 +38,7 @@ This page aims to collect and organize community guidelines and recommendations 
 &nbsp;
 
 ## Recorded discussions
-The best practices for single-cell mass spec proteomics have been frequently discussed at the *single-cell proteomics conference*, and some of these discussions are available for a [YouTube playlist](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW).
+The best practices for single-cell mass spec proteomics have been frequently discussed at the *single-cell proteomics conference*, and some of these discussions are available at a [YouTube playlist](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW).
 
 &nbsp;
 
