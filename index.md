@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Single-cell proteomics conference, annual meeting for single-cell biology, sensitive proteomics, single-cell omics and computational biology"
+description: "Single-cell proteomics conference, annual meeting for single-cell biology, sensitive mass spectrometry, single-cell omics and computational biology"
 permalink: /
 ---
 
@@ -42,11 +42,13 @@ We look forward to providing a stimulating platform of scientific exchanges and 
 
 &nbsp;
 
-
+<!--
 <div style="text-align: center;">
 <a  class="twitter-timeline"  href="https://twitter.com/SCP_meeting" data-widget-id="499599916843274240">Tweets by @SCP_meeting</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
+
+-->
 
 ------------
 
