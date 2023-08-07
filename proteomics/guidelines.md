@@ -31,8 +31,11 @@ This page organizes and collects community guidelines for performing, benchmarki
 
 &nbsp;
 
-> We expect that broadly accepted community guidelines and standardized metrics will enhance rigor, data quality and alignment between laboratories.
+> **We expect that broadly accepted community guidelines and standardized metrics will enhance rigor, data quality and alignment between laboratories.**
 
+&nbsp;
+
+{: .fs-5 }
 [The *Nature Methods* white paper](https://www.nature.com/articles/s41592-023-01785-3) proposed best practices, quality controls and data-reporting recommendations to assist in the broad adoption of reliable quantitative workflows for single-cell proteomics.
 
 ---------
