@@ -2,7 +2,7 @@
 layout: default
 title: Community guidelines
 nav_order: 21
-description: "Initial recommendations for performing, benchmarking, and reporting single-cell proteomics experiments"
+description: "Initial recommendations and guidelines for performing, benchmarking, and reporting single-cell proteomics experiments. Guidelines for sharing data and metadata."
 permalink: guidelines
 has_children: false
 image: photos/Data-evaluation-and-interpretation.png
@@ -14,12 +14,14 @@ image: photos/Data-evaluation-and-interpretation.png
 &nbsp;
 
 {: .fs-6 }
-This page aims to collect and organize community guidelines and recommendations for performing, benchmarking, and reporting single-cell proteomics experiments
+This page organizes and collects community guidelines for performing, benchmarking, and reporting single-cell proteomic experiments
 
 -------
 
 
-## Initial recommendations from a community white paper
+## Initial community recommendations
+
+{: .fs-5 }
 [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3), *Nature Methods*, **20**, 375--386 (2023) doi: [10.1038/s41592-023-01785-3](https://doi.org/10.1038/s41592-023-01785-3), [Blog](https://blog.slavovlab.net/2023/03/04/guidelines-for-single-cell-proteomic-experiments/)
 * [GitHub Code](https://github.com/SlavovLab/SCP_recommendations)
 * [Example *README* file](https://www.nature.com/articles/s41592-023-01785-3#Sec29)
