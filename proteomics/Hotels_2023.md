@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Hotels 2023
+title: Hotels 2024
 nav_order: 5
 description: "Hotels for the single-cell proteomics conference 2023 in Boston"
-permalink: SCP_Meeting/Hotels_2023
+permalink: SCP_Meeting/Hotels_2024
 parent: Logistics
 ---
 
-# Reserved Hotel for SCP2023
+# Reserved Hotel for SCP2024
 
 
 &nbsp;
@@ -15,10 +15,11 @@ parent: Logistics
 
 ## The Inn at Longwood Medical
 
-Reservations can be made by calling the Hotel’s reservations at 1 (800) 468-2378 or (617) 731-4700 asking for group block code NEUE0623.
-* Room rate: $269.
-* Valid for the following dates: May 31 -- June 3, 2023 (Check in: May 31st / Check out: June 3nd)
+Reservations can be made before 4/27/2024 by calling the Hotel’s reservations at 1 (800) 468-2378 or (617) 731-4700 asking for group block code Neue0524.
+* Room rate: $279.
+* Valid for the following dates: May 27 -- June 3, 2024 (Check in: May 27st / Check out: June 3nd)
 * Block Code: NEUE0623
+* Reservations can also be made from this [Link](https://be.synxis.com/?Hotel=58219&Chain=65&arrive=2024-05-27&depart=2024-06-03&adult=1&child=0&group=NEUE0524)
 
 
 
