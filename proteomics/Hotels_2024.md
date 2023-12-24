@@ -26,6 +26,12 @@ Reservations can be made before 4/27/2024 by calling the Hotel’s reservations 
 The Inn at Longwood Medical is located at 342 Longwood Ave Boston, MA 02115. It is an 18 minute walk to the Northeastern University campus.
 
 
+## The Colonnade Hotel 
+* Room rate: $479.
+* Reservations can be made from [this link](https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=BOSCO&group=NES28A&arrivalDate=05-28-2024&departureDate=05-31-2024&numberOfNights=3&numberOfAdults=1).
+
+
+
 ## [SCP2023 Home](https://single-cell.net/proteomics/scp2023)
 
 
