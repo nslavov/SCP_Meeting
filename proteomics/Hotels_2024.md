@@ -33,6 +33,10 @@ The Inn at Longwood Medical is located at 342 Longwood Ave Boston, MA 02115. It 
 ## Copley Park Plaza Hotel
 * Reservations can be made from [this link](https://reservations.travelclick.com/102285?RatePlanId=7559452).
 
+&nbsp;
+
+
+&nbsp;
 
 
 ## [SCP2024 Home](https://single-cell.net/proteomics/scp2024)
