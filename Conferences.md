@@ -12,6 +12,27 @@ parent: Resources
 
 <br>
 
+# 2024 Single-cell biology conferences
+
+
+## May
+* [7<sup>th</sup> Single-Cell Proteomics Conference (SCP2024)](proteomics/scp2024): May 18 - 30
+
+* [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2024/): May 1 - 6
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+# Past conferences
+---
+
+
 # 2022 Single-cell biology conferences
 
 
@@ -23,13 +44,6 @@ parent: Resources
 
 
 <br>
-<br>
-<br>
-<br>
-
-
-# Past conferences
----
 
 
 # 2021 Single-cell biology conferences
