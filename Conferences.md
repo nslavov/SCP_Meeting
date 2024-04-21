@@ -19,12 +19,17 @@ parent: Resources
 
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2024/): May 19 - 24
 
-* [7<sup>th</sup> Single-Cell Proteomics (SCP2024)](https://single-cell.net/proteomics/scp2024): May 28 - 30
+* [Single-Cell Proteomics (SCP2024)](https://single-cell.net/proteomics/scp2024): May 28 - 30
 
 
 ## September
 
 * [Single-Cell Genomics](https://conferences.weizmann.ac.il/SCG2024/): Sep 16 - 18
+
+
+## October
+
+ * [iSCMS 2024](https://singlecellms.org): Oct 26 - 28
 
 
 <br>
