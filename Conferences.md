@@ -19,7 +19,7 @@ parent: Resources
 
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2024/): May 19 - 24
 
-* [7<sup>th</sup> Single-Cell Proteomics (SCP2024)](proteomics/scp2024): May 28 - 30
+* [7<sup>th</sup> Single-Cell Proteomics (SCP2024)](/proteomics/scp2024): May 28 - 30
 
 
 ## September
@@ -44,7 +44,7 @@ parent: Resources
 * [Gordon Research Conference: Single-Cell Genomics](https://www.grc.org/single-cell-genomics-conference/2022/): May 1 - 6
 
 ## June
-* [5<sup>th</sup> Single-Cell Proteomics Conference (SCP2022)](proteomics/scp2022): June 15 - 16
+* [5<sup>th</sup> Single-Cell Proteomics Conference (SCP2022)](/proteomics/scp2022): June 15 - 16
 
 
 <br>
@@ -66,7 +66,7 @@ parent: Resources
 # 2021 Single-cell biology conferences
 
 ## August
-* [4<sup>th</sup> Single-Cell Proteomics (SCP2021)](http://single-cell.net/proteomics/scp2021): Aug 16 - 18
+* [4<sup>th</sup> Single-Cell Proteomics (SCP2021)](https://single-cell.net/proteomics/scp2021): Aug 16 - 18
 
 
 ## September
@@ -81,7 +81,7 @@ parent: Resources
 
 
 ## August
-* [3<sup>rd</sup> Single-Cell Proteomics (SCP2020)](http://single-cell.net/proteomics/scp2020): August 18 - 19
+* [3<sup>rd</sup> Single-Cell Proteomics (SCP2020)](https://single-cell.net/proteomics/scp2020): August 18 - 19
 
 ## September
 <!--- * [European Single Cell Proteomics meeting](https://www.proteomics-academy.org/apmrs2020-escp2020): Sep 2 - 5 --->
