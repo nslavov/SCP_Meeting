@@ -21,6 +21,9 @@ parent: Resources
 
 * [Single-Cell Proteomics (SCP2024)](https://single-cell.net/proteomics/scp2024): May 28 - 30
 
+## July
+
+* [BMSS](https://www.bmss.org.uk/bmss-single-cell-ms-sig-meeting-2024/), July 10
 
 ## September
 
