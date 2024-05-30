@@ -9,9 +9,16 @@ has_children: true
 {% include social-media-links.html %}
 
 # Single-cell proteomics resources
+{:.no_toc}
 
+* Will be replaced with the ToC, excluding the section header
+{:toc}
 
 &nbsp;
+
+
+
+
 
 ## Social networks
 
@@ -46,6 +53,11 @@ has_children: true
 
 ## Photos
 
+### 2024:  The 7th Single-Cell Proteomics Conference
+
+ ![]({{site.baseurl}}/proteomics/photos/SCP2024_Group_Picture.jpeg){:width="80%" .center-image}
+
+&nbsp;
 
 
 ### 2023:  The 6th Single-Cell Proteomics Conference
