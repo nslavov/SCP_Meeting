@@ -56,6 +56,11 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 &nbsp;
 
+## SCP2024
+[7th Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJ9kZIn3Cur1N-v3f59xYnt)
+
+&nbsp;
+
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
 <a href="https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2">Single-cell proteomics YouTube playlists</a>
