@@ -7,7 +7,7 @@ permalink: SCP_Meeting/Hotels_2025
 parent: Logistics
 ---
 
-# Reserved Hotel for SCP2024
+# Reserved Hotel for SCP2025
 
 
 &nbsp;
