@@ -25,6 +25,13 @@ Reservations can be made before 3/27/2025 by calling the Hotel’s reservations 
 The Inn at Longwood Medical is located at 342 Longwood Ave Boston, MA 02115. It is an 18 minute walk to the Northeastern University campus.
 
 
+## The Verb Hotel
+
+Reservations can be made before April 11, 2025 by calling the Hotel’s reservations at (617) 566-4500 and asking for the SCP Conference May 2025 block reservation:
+
+* Valid for the following dates: May 27 - May 29, 2025 (Check in: May 26 / Check out: May 30)
+* Reservations can also be made from this [Link](https://be.synxis.com/?_ga=2.28555832.543142179.1733519806-2108305383.1727718338&adult=1&arrive=2025-05-26&chain=16362&child=0&currency=USD&depart=2025-05-30&group=SCP&hotel=61148&level=hotel&locale=en-US&productcurrency=USD&rooms=1)
+
 <!--
 ## The Colonnade Hotel
 * Room rate: $479.
