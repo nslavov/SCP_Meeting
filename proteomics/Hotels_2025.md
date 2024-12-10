@@ -32,7 +32,7 @@ Reservations can be made before April 11, 2025 by calling the Hotel’s reservat
 * Valid for the following dates: May 27 - May 29, 2025 (Check in: May 26 / Check out: May 30)
 * Reservations can also be made from this [Link](https://be.synxis.com/?_ga=2.28555832.543142179.1733519806-2108305383.1727718338&adult=1&arrive=2025-05-26&chain=16362&child=0&currency=USD&depart=2025-05-30&group=SCP&hotel=61148&level=hotel&locale=en-US&productcurrency=USD&rooms=1)
 
-The Verb Hotel is located at 1271 Boylston St, Boston, MA 02215. It is an 11 minute walk to the Northeaster University campus.
+The Verb Hotel is located at 1271 Boylston St, Boston, MA 02215. It is an 11 minute walk to the Northeastern University campus.
 
 <!--
 ## The Colonnade Hotel
