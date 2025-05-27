@@ -23,6 +23,8 @@ Below are links to recorded video presentations from the [single-cell proteomics
 ## SCP2025
 ### The link to the live stream will become available here the morning before the start of the conference on Tuesday, May 27 and Wednesday, May 28.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJHoftV7MhE?si=ZMoB2c1xmDWzBj4Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 &nbsp;
 
 ## SCP2018
