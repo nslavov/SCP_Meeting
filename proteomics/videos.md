@@ -20,11 +20,6 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 # [All playlists](https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2){: .fs-10 }
 
-## SCP2025
-### The link to the live stream will become available here the morning before the start of the conference on Tuesday, May 27 and Wednesday, May 28.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zJHoftV7MhE?si=ZMoB2c1xmDWzBj4Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 &nbsp;
 
 ## SCP2018
@@ -64,6 +59,15 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 ## SCP2024
 [7th Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJ9kZIn3Cur1N-v3f59xYnt)
+
+&nbsp;
+
+## SCP2025
+Edited presentations from the 8th Single-Cell Proteomics Conference will be available soon. Watch the full day of presentations: 
+
+Day 1 will be available soon.
+
+[8th Single-Cell Proteomics Conference Day 2](https://www.youtube.com/watch?v=UZCsU9swP3s)
 
 &nbsp;
 
