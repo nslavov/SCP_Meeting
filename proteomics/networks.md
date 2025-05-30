@@ -53,6 +53,15 @@ has_children: true
 
 ## Photos
 
+
+### 2025:  The 8th Single-Cell Proteomics Conference
+
+ ![]({{site.baseurl}}/proteomics/photos/SCP2025_Group_Picture.png){:width="80%" .center-image}
+
+&nbsp;
+
+
+
 ### 2024:  The 7th Single-Cell Proteomics Conference
 
  ![]({{site.baseurl}}/proteomics/photos/SCP2024_Group_Picture.jpeg){:width="80%" .center-image}
