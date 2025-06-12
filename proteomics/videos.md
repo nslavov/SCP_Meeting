@@ -62,8 +62,11 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 &nbsp;
 
+
 ## SCP2025
-Edited presentations from the 8th Single-Cell Proteomics Conference will be available soon. Watch the full day of presentations: 
+[8th Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsKvnKYlmMHUDiVf1AL8jo7r)
+
+Unedited recordings of the full days of presentations:
 
 [8th Single-Cell Proteomics Conference Day 1](https://youtube.com/live/zJHoftV7MhE?feature=share)
 
