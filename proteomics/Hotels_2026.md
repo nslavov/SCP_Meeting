@@ -33,7 +33,7 @@ Accommodations are in Northeastern University newer construction buildings. All 
 * Double $86.40 per person/night – (two twin beds with shared bathroom/common room)
 * Single $115.20 per person/night – (one twin bed with shared bathroom/common room)
 
-More information for reserving apartment style accommodations will be available shortly.
+Reservations can be made before Saturday, June 13, 2026. More information for reserving apartment style accommodations will be available shortly. 
 
 &nbsp;
 
