@@ -21,12 +21,19 @@ Reservations can be made before Saturday, June 13, 2026 by calling the Hotel’s
 * Reservations can also be made from this [Link](https://be.synxis.com/?adult=1&arrive=2026-07-13&chain=65&child=0&currency=USD&depart=2026-07-16&group=CELL0726&hotel=58219&level=hotel&locale=en-US&productcurrency=USD&rooms=1)
 
 
-
 The Inn at Longwood Medical is located at 342 Longwood Ave Boston, MA 02115. It is an 18 minute walk to the Northeastern University campus.
 
 
 &nbsp;
 
+## Apartment Style Accommodations: 
+
+Accommodations are in Northeastern University newer construction buildings. All units feature air-conditioning, a full kitchen, living room, and a semi-private bathroom. Most bedrooms are within a shared apartment. Guests will have a single or double room within an apartment style accommodation with common spaces with other guests from the from the same conference and gender identity.
+
+* Double $86.40 per person/night – (two twin beds with shared bathroom/common room)
+* Single $115.20 per person/night – (one twin bed with shared bathroom/common room)
+
+More information for reserving apartment style accommodations will be available shortly.
 
 &nbsp;
 
