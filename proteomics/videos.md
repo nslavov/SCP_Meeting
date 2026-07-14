@@ -22,18 +22,6 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 &nbsp;
 
-## SCP2026
-
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/lprXlg1Jkig"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
 
 ## SCP2018
 ### [1st Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
