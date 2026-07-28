@@ -53,6 +53,12 @@ has_children: true
 
 ## Photos
 
+### 2026:  The 9th Single-Cell Proteomics Conference
+
+ ![]({{site.baseurl}}/proteomics/photos/SCP2026_group_photo.png){:width="80%" .center-image}
+
+&nbsp;
+
 
 ### 2025:  The 8th Single-Cell Proteomics Conference
 
