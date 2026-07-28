@@ -55,7 +55,7 @@ has_children: true
 
 ### 2026:  The 9th Single-Cell Proteomics Conference
 
- ![]({{site.baseurl}}/proteomics/photos/SCP2026_group_photo.jpg){:width="80%" .center-image}
+ ![]({{site.baseurl}}/proteomics/photos/SCP26_group_photo.jpg){:width="80%" .center-image}
 
 &nbsp;
 
