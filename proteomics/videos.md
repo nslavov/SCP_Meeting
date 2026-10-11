@@ -75,6 +75,12 @@ Unedited recordings of the full days of presentations:
 
 &nbsp;
 
+## SCP2026
+### [9<sup>th</sup> Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLImjfwuJZC7U)
+
+
+&nbsp;
+
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
 <a href="https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2">Single-cell proteomics YouTube playlists</a>
