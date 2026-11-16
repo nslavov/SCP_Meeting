@@ -22,7 +22,7 @@ has_children: true
 
 ## Social networks
 
-* [Twitter](https://twitter.com/SCP_meeting)
+* [Twitter](https://x.com/SCP_meeting)
 * [YouTube](https://www.youtube.com/c/NikolaiSlavovResearch)
 * [Linkedin Page](https://www.linkedin.com/groups/8618946/)
 * [Facebook Page](https://www.facebook.com/Single.Cell.Proteomics/)
@@ -34,6 +34,7 @@ has_children: true
 
 
 ## News & Highlights
+* [Probing the proteome at cellular scale](https://www.nature.com/articles/d41586-026-02805-w), *Nature*
 * [Single-Cell Proteomics Bypasses Bottlenecks, Sways Skeptics](https://www.genengnews.com/topics/omics/proteomics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/),  *GEN*
 * [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/), *Precision Medicine*
 * [Uncovering Proteomic Patterns One Cell at a Time](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/), *GEN*
@@ -52,6 +53,12 @@ has_children: true
 
 
 ## Photos
+
+### 2026:  The 9th Single-Cell Proteomics Conference
+
+ ![]({{site.baseurl}}/proteomics/photos/scp26_group_photo.JPG){:width="80%" .center-image}
+
+&nbsp;
 
 
 ### 2025:  The 8th Single-Cell Proteomics Conference

@@ -22,6 +22,7 @@ Below are links to recorded video presentations from the [single-cell proteomics
 
 &nbsp;
 
+
 ## SCP2018
 ### [1st Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
@@ -74,6 +75,12 @@ Unedited recordings of the full days of presentations:
 
 &nbsp;
 
+## SCP2026
+### [9<sup>th</sup> Single-Cell Proteomics Conference](https://www.youtube.com/playlist?list=PLImjfwuJZC7U)
+
+
+&nbsp;
+
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
 <a href="https://www.youtube.com/@NikolaiSlavovResearch/playlists?view=50&sort=dd&shelf_id=2">Single-cell proteomics YouTube playlists</a>
@@ -81,25 +88,6 @@ Unedited recordings of the full days of presentations:
 
 
 ------------
-
-
-&nbsp;
-
-<div style="text-align: center;" >
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
 
 
 
